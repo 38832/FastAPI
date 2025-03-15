@@ -1,4 +1,5 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Response
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import numpy as np
 import pandas as pd
@@ -9,6 +10,15 @@ model = load("injury_prediction_model.joblib")
 
 # Define FastAPI app
 app = FastAPI(title="Football Injury Prediction API")
+
+# Enable CORS to allow frontend requests
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allow all domains (for now, change later for security)
+    allow_credentials=True,
+    allow_methods=["POST", "OPTIONS"],  # Allow only POST and OPTIONS
+    allow_headers=["*"],  # Allow all headers
+)
 
 # Root endpoint to check if API is running
 @app.get("/", include_in_schema=False)
@@ -25,6 +35,14 @@ class PlayerData(BaseModel):
     hydration_level: int  # 1: Adequate, 2: Insufficient, 3: Optimal
     nutrition_habits: int  # 1: Balanced, 2: Varied, 3: High Protein
     fitness_level: int  # 1: Low, 2: Moderate, 3: High
+
+# Explicitly handle CORS preflight (OPTIONS request)
+@app.options("/predict")
+async def options_predict(response: Response):
+    response.headers["Access-Control-Allow-Origin"] = "*"
+    response.headers["Access-Control-Allow-Methods"] = "POST, OPTIONS"
+    response.headers["Access-Control-Allow-Headers"] = "*"
+    return response
 
 # API endpoint for prediction
 @app.post("/predict")
