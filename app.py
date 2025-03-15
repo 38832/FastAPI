@@ -11,7 +11,8 @@ model = load("injury_prediction_model.joblib")
 app = FastAPI(title="Football Injury Prediction API")
 
 # Root endpoint to check if API is running
-@app.get("/")
+@app.get("/", include_in_schema=False)
+@app.head("/", include_in_schema=False)
 def home():
     return {"message": "Football Injury Prediction API is running!"}
 
@@ -28,13 +29,9 @@ class PlayerData(BaseModel):
 # API endpoint for prediction
 @app.post("/predict")
 def predict_injury(player: PlayerData):
-    # Convert input data to a DataFrame
     player_df = pd.DataFrame([player.dict()])
-
-    # Make prediction
     prediction = model.predict(player_df)
 
-    # Return response as JSON
     return {
         "injury_likelihood": prediction[0][0],
         "preventive_techniques": prediction[0][1],
