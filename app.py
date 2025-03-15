@@ -4,11 +4,16 @@ import numpy as np
 import pandas as pd
 from joblib import load
 
-# Load the trained model and imputer
+# Load the trained model
 model = load("injury_prediction_model.joblib")
 
 # Define FastAPI app
 app = FastAPI(title="Football Injury Prediction API")
+
+# Root endpoint to check if API is running
+@app.get("/")
+def home():
+    return {"message": "Football Injury Prediction API is running!"}
 
 # Define input schema
 class PlayerData(BaseModel):
@@ -35,3 +40,4 @@ def predict_injury(player: PlayerData):
         "preventive_techniques": prediction[0][1],
         "predicted_injury_type": prediction[0][2]
     }
+
