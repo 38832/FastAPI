@@ -4,6 +4,7 @@ from pydantic import BaseModel
 import numpy as np
 import pandas as pd
 from joblib import load
+from sklearn.impute import SimpleImputer
 
 # Load the trained model
 model = load("injury_prediction_model.joblib")
@@ -16,8 +17,8 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],  # Allow all domains (for now, change later for security)
     allow_credentials=True,
-    allow_methods=["POST", "OPTIONS"],  # Allow only POST and OPTIONS
-    allow_headers=["*"],  # Allow all headers
+    allow_methods=["POST", "OPTIONS"],  
+    allow_headers=["*"],  
 )
 
 # Root endpoint to check if API is running
@@ -26,7 +27,7 @@ app.add_middleware(
 def home():
     return {"message": "Football Injury Prediction API is running!"}
 
-# Define input schema
+# Define input schema with Position
 class PlayerData(BaseModel):
     age: int
     previous_injuries: int
@@ -35,6 +36,7 @@ class PlayerData(BaseModel):
     hydration_level: int  # 1: Adequate, 2: Insufficient, 3: Optimal
     nutrition_habits: int  # 1: Balanced, 2: Varied, 3: High Protein
     fitness_level: int  # 1: Low, 2: Moderate, 3: High
+    position: int  # 1: Forward, 2: Midfielder, 3: Defender, 4: GoalKeeper
 
 # Explicitly handle CORS preflight (OPTIONS request)
 @app.options("/predict")
@@ -47,8 +49,15 @@ async def options_predict(response: Response):
 # API endpoint for prediction
 @app.post("/predict")
 def predict_injury(player: PlayerData):
+    # Convert input data to DataFrame
     player_df = pd.DataFrame([player.dict()])
-    prediction = model.predict(player_df)
+    
+    # Handle missing values (if any)
+    imputer = SimpleImputer(strategy="mean")
+    player_df_imputed = imputer.fit_transform(player_df)
+
+    # Make prediction
+    prediction = model.predict(player_df_imputed)
 
     return {
         "injury_likelihood": prediction[0][0],
