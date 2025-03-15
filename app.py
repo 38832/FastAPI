@@ -15,9 +15,9 @@ app = FastAPI(title="Football Injury Prediction API")
 # Enable CORS to allow frontend requests
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allow all domains (for now, change later for security)
+    allow_origins=["*"],
     allow_credentials=True,
-    allow_methods=["POST", "OPTIONS"],  
+    allow_methods=["*"],  
     allow_headers=["*"],  
 )
 
