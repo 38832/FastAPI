@@ -1,0 +1,1038 @@
+Injury Location,Pain Type,Exercise,Medication,Nutrition
+Knee,Sharp Pain,Football-specific knee exercises,Rest and over-the-counter pain relievers,Anti-inflammatory foods
+Ankle,Sprain,Rehabilitation drills and ankle strengthening exercises,Ibuprofen,Hydrate with electrolyte-rich drinks
+Hamstring,Tightness,Dynamic stretching and hamstring strengthening,Rest and ice,Protein-rich diet
+Hip,Joint pain,Low-impact exercises and hip mobility drills,Anti-inflammatory drugs,"Turmeric, Ginger"
+Shoulder,Soreness,Rotator cuff exercises,Pain-relief ointments,Berries and Omega-3
+Back,Muscle Spasms,Gentle stretching and back exercises,Muscle relaxants,Hydration and electrolytes
+Elbow,Throwing pain,Elbow strengthening drills,Anti-inflammatory cream,Calcium-rich foods
+Wrist,Tenderness,Isometric wrist exercises,Topical analgesics,Collagen supplements
+Calf,Strain,Rest and gradual return,Pain relievers,Protein and Vitamin C
+Neck,Neck pain,Aquatic therapy,Muscle relaxants,"Hydration, potassium-rich foods"
+Foot,Plantar fasciitis,Foot stretches,Orthopedic inserts,Anti-inflammatory diet
+Calf,Strain,Rest and gradual return,Pain relievers,Protein and Vitamin C
+Head,Concussion,Complete rest,Monitoring and medical evaluation,Hydration and balanced diet
+Thigh,Bruising,Gentle movement exercises,Over-the-counter pain relievers,Vitamin K-rich foods
+Groin,Strain,Groin stretches and strengthening,Icing and NSAIDs,Protein and anti-inflammatory foods
+Hand,Sprain,Hand therapy exercises,Topical analgesics,Collagen-rich foods
+Finger,Dislocation,Finger mobility exercises,Splinting,Calcium-rich foods
+Shin,Shin splints,Shin splint stretches and strengthening,Rest and ice,Vitamin D-rich foods
+Eye,Eye injury,Eye movement exercises,Eye drops,Carrots and Vitamin A
+Throat,Strain,Throat relaxation exercises,Warm saltwater gargle,Hydration and soothing foods
+Chest,Contusion,Gentle chest stretches,Ice packs,Anti-inflammatory diet
+Abdomen,Muscle strain,Abdominal strengthening exercises,Rest and gentle massage,Fiber-rich foods
+Toes,Fracture,Toe mobility exercises,Splinting and pain relievers,Calcium and Vitamin D supplements
+Ankle,Fracture,Gentle range-of-motion exercises and ankle support,Prescription pain relievers,Calcium and vitamin D-rich foods
+Shoulder,Frozen shoulder,Passive and active range-of-motion exercises,Corticosteroid injections,Omega-3 fatty acids and antioxidant-rich foods
+Knee,IT band syndrome,Foam rolling and IT band stretches,NSAIDs,Magnesium-rich foods
+Wrist,Carpal bone fracture,Hand and wrist strengthening exercises,Immobilization and pain relievers,Zinc and vitamin K-rich foods
+Back,Herniated disc,Core-stabilization exercises and physical therapy,Prescription anti-inflammatory medication,Vitamin B12 and Omega-3 fatty acids
+Elbow,Golfer's elbow,Forearm pronation and supination exercises,Rest and elbow brace,Vitamin C and E-rich foods
+Hip,Labral tear,Hip stability exercises and aquatic therapy,Pain management under supervision,Collagen and protein-rich diet
+Neck,Cervical radiculopathy,Neck traction and physical therapy,NSAIDs and muscle relaxants,Vitamin D and calcium-rich foods
+Thigh,Quadriceps strain,Quadriceps strengthening exercises and R.I.C.E.,Over-the-counter pain relievers,Protein and anti-inflammatory foods
+Groin,Adductor tendinitis,Adductor muscle stretches and strengthening,NSAIDs and ice,Hydration and potassium-rich foods
+Knee,Patellar tendinitis,Eccentric and concentric quadriceps exercises,NSAIDs and knee bracing,Vitamin E-rich foods and hydration
+Ankle,Osteochondral lesion,Ankle stability exercises and modified weight-bearing,Pain management under supervision,Omega-3 fatty acids and calcium-rich foods
+Shoulder,AC joint separation,Shoulder stabilization exercises and physical therapy,Ice and prescribed pain relievers,Protein and antioxidant-rich foods
+Back,Lumbar strain,McKenzie exercises and gradual mobilization,Muscle relaxants and NSAIDs,Hydration and magnesium-rich foods
+Elbow,Ulnar collateral ligament (UCL) injury,UCL rehabilitation exercises and rest,Elbow brace and anti-inflammatory cream,Vitamin K and D-rich foods
+Hip,Snapping hip syndrome,Stretching and strengthening of hip muscles,NSAIDs and physical therapy,Turmeric and omega-3 fatty acids
+Neck,Occipital neuralgia,Neck stretches and nerve pain medication,Muscle relaxants and heat therapy,Magnesium and B vitamins-rich foods
+Thigh,Hamstring avulsion,Gentle stretching and progressive rehabilitation,Pain management under medical supervision,Protein and iron-rich foods
+Groin,Sports hernia,Core strengthening and gradual return to activity,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Trigger finger,Hand exercises and splinting,NSAIDs and corticosteroid injections,Vitamin C and E-rich foods
+Finger,Mallet finger,Splinting and gentle finger exercises,Rest and ice,Collagen and calcium-rich foods
+Shin,Tibial stress fracture,Modified weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin K and D-rich foods
+Shoulder,Dislocated shoulder,"Immobilization, physical therapy, and shoulder stability exercises",Pain management under medical supervision,Protein and vitamin C-rich foods
+Knee,PCL (Posterior Cruciate Ligament) injury,PCL-specific rehabilitation exercises,Knee brace and prescribed pain relievers,Anti-inflammatory diet and hydration
+Back,Scoliosis-related pain,Core-strengthening exercises and physical therapy,Pain medication and spinal bracing,Calcium and vitamin D-rich foods
+Ankle,Talar dome lesion,Ankle range of motion exercises and weight-bearing modifications,Pain management under supervision,Omega-3 fatty acids and collagen-rich foods
+Knee,Meniscal tear,Physical therapy and controlled movement,Pain relievers and anti-inflammatory drugs,Omega-3 fatty acids and vitamin C-rich foods
+Ankle,High ankle sprain,R.I.C.E. protocol and ankle stability drills,Prescription pain medication,Hydration with electrolyte-rich drinks
+Hamstring,Pull or strain,Progressive hamstring stretching and strengthening,Rest and ice,Protein-rich diet and vitamin E-rich foods
+Hip,Labral tear,Hip stabilization exercises and aquatic therapy,NSAIDs,Collagen supplements and anti-inflammatory diet
+Shoulder,AC joint sprain,Shoulder stability exercises and rest,Pain relievers and ice,Berries and omega-3 fatty acids
+Back,Lumbar disc herniation,McKenzie exercises and physical therapy,Prescription anti-inflammatory drugs,Hydration and magnesium-rich foods
+Elbow,Olecranon bursitis,Elbow padding and stretching,NSAIDs and corticosteroid injections,Turmeric and vitamin K-rich foods
+Wrist,TFCC (Triangular Fibrocartilage Complex) tear,Wrist-strengthening exercises,Immobilization and NSAIDs,Calcium and vitamin D-rich foods
+Calf,Gastrocnemius strain,Calf stretches and gradual return to activity,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical strain,Neck exercises and heat therapy,Muscle relaxants and pain relievers,Hydration and vitamin C-rich foods
+Foot,Achilles tendinopathy,Eccentric heel drops and Achilles stretches,NSAIDs and orthopedic inserts,Anti-inflammatory diet and hydration
+Knee,ACL (Anterior Cruciate Ligament) tear,ACL rehabilitation exercises,Knee brace and prescribed pain medication,Protein and vitamin A-rich foods
+Head,Whiplash,Neck exercises and gentle stretching,Muscle relaxants and pain relievers,Hydration and foods rich in omega-3 fatty acids
+Thigh,Quadriceps contusion,"Rest, ice, compression, and elevation (R.I.C.E.)",Pain relievers and gentle movement,Protein and vitamin K-rich foods
+Groin,Adductor longus tear,Adductor muscle strengthening and stretching,NSAIDs and physical therapy,Anti-inflammatory diet and hydration
+Hand,Metacarpal fracture,Hand therapy exercises and splinting,Pain medication and immobilization,Calcium and vitamin D-rich foods
+Finger,Ligament sprain,Finger mobility exercises and buddy taping,NSAIDs and rest,Collagen-rich foods and vitamin E-rich foods
+Shin,Stress fracture,Reduced weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Rotator cuff tear,Rotator cuff exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Patellofemoral pain syndrome,Patellar stabilization exercises,NSAIDs and knee taping,Hydration and foods rich in antioxidants
+Knee,Iliotibial Band Syndrome,IT band stretches and hip strengthening,NSAIDs and topical pain relief,Hydration and foods rich in magnesium
+Ankle,Peroneal Tendonitis,Peroneal tendon exercises and ankle stability,Ice and anti-inflammatory medication,Omega-3 fatty acids and vitamin D-rich foods
+Hamstring,Avulsion Injury,Progressive rehabilitation and gentle stretching,Pain relievers and muscle relaxants,Protein-rich diet and foods high in vitamin C
+Hip,Hip Impingement,Hip mobility exercises and physical therapy,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,SLAP Tear,SLAP tear-specific exercises and rest,Pain management under medical supervision,Omega-3 fatty acids and vitamin E-rich foods
+Back,Sacroiliac Joint Dysfunction,SI joint stabilization exercises,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Radial Head Fracture,Elbow range of motion exercises and bracing,Pain relievers and immobilization,Calcium and vitamin C-rich foods
+Wrist,Scaphoid Fracture,Wrist immobilization and rehabilitation drills,Pain medication and splinting,Vitamin D and calcium-rich foods
+Calf,Achilles Tendon Rupture,Controlled weight-bearing exercises and physical therapy,Immobilization and prescribed pain medication,Protein and collagen-rich foods
+Neck,Herniated Cervical Disc,Neck traction and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Lisfranc Injury,Non-weight-bearing exercises and orthopedic support,Pain relievers and immobilization,Anti-inflammatory diet and vitamin K-rich foods
+Knee,MCL (Medial Collateral Ligament) Sprain,MCL-specific exercises and knee bracing,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Head,Skull Fracture,Complete rest and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Quadriceps Tendinopathy,Eccentric quadriceps exercises and rest,NSAIDs and ice,Protein and vitamin E-rich foods
+Groin,Sportsman's Hernia,Core strengthening and gradual return to activity,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Boxer's Fracture,Hand therapy exercises and splinting,Pain medication and immobilization,Calcium and vitamin D-rich foods
+Finger,Jersey Finger,Hand therapy exercises and buddy taping,NSAIDs and immobilization,Collagen-rich foods and vitamin C-rich foods
+Shin,Compartment Syndrome,Activity modification and physical therapy,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Biceps Tendonitis,Biceps tendon exercises and rest,NSAIDs and ice,Omega-3 fatty acids and protein-rich diet
+Knee,Patellar Dislocation,Patellar stabilization exercises and bracing,Pain management under medical supervision,Hydration and foods rich in vitamin A and
+Knee,Plica Syndrome,Knee exercises and physical therapy,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Ankle,Os Trigonum Syndrome,Ankle flexibility exercises and rest,Pain relievers and ankle bracing,Omega-3 fatty acids and vitamin D-rich foods
+Hamstring,Hamstring Tendinopathy,Eccentric hamstring exercises and stretching,NSAIDs and physical therapy,Protein-rich diet and foods high in vitamin C
+Hip,Femoroacetabular Impingement (FAI),Hip mobility exercises and physical therapy,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,Subacromial Bursitis,Rotator cuff exercises and gentle stretching,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Back,Facet Joint Syndrome,Core-strengthening exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Ulnar Nerve Entrapment,Ulnar nerve gliding exercises and rest,Pain relievers and elbow bracing,Calcium and vitamin B-rich foods
+Wrist,De Quervain's Tenosynovitis,Wrist splinting and gentle exercises,NSAIDs and corticosteroid injections,Vitamin D and omega-3 fatty acids-rich foods
+Calf,Popliteal Artery Entrapment,Gradual return to activity and calf stretches,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Facet Joint Dysfunction,Neck exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Cuboid Syndrome,Foot stretches and orthopedic support,NSAIDs and rest,Anti-inflammatory diet and vitamin K-rich foods
+Knee,Osgood-Schlatter Disease,Quadriceps and hamstring stretches,Pain relievers and knee bracing,Hydration and foods rich in vitamin D
+Head,Basilar Skull Fracture,Complete rest and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Myositis Ossificans,Gentle movement exercises and rest,NSAIDs and ice,Protein and vitamin E-rich foods
+Groin,Obturator Nerve Entrapment,Hip and groin stretches and rest,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Paronychia,Warm water soaks and antibiotic ointment,Antibiotics and pain relievers,Zinc and vitamin C-rich foods
+Finger,Boutonniere Deformity,Finger splinting and gentle exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Anterior Compartment Syndrome,Modification of activities and physical therapy,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Sternoclavicular Joint Dislocation,Immobilization and gentle exercises,Pain management under medical supervision,Omega-3 fatty acids and protein-rich diet
+Knee,Chondromalacia Patellae,Quadriceps strengthening and low-impact exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Knee,Meniscal tear,Physical therapy and controlled movement,Pain relievers and anti-inflammatory drugs,Omega-3 fatty acids and vitamin C-rich foods
+Ankle,High ankle sprain,R.I.C.E. protocol and ankle stability drills,Prescription pain medication,Hydration with electrolyte-rich drinks
+Hamstring,Avulsion Injury,Progressive rehabilitation and gentle stretching,Pain relievers and muscle relaxants,Protein-rich diet and foods high in vitamin C
+Hip,Labral tear,Hip stabilization exercises and aquatic therapy,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,SLAP Tear,SLAP tear-specific exercises and rest,Pain management under medical supervision,Omega-3 fatty acids and vitamin E-rich foods
+Back,Sacroiliac Joint Dysfunction,SI joint stabilization exercises,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Radial Head Fracture,Elbow range of motion exercises and bracing,Pain relievers and immobilization,Calcium and vitamin C-rich foods
+Wrist,Scaphoid Fracture,Wrist immobilization and rehabilitation drills,Pain medication and splinting,Vitamin D and calcium-rich foods
+Calf,Achilles Tendon Rupture,Controlled weight-bearing exercises and physical therapy,Immobilization and prescribed pain medication,Protein and collagen-rich foods
+Neck,Herniated Cervical Disc,Neck traction and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Lisfranc Injury,Non-weight-bearing exercises and orthopedic support,Pain relievers and immobilization,Anti-inflammatory diet and vitamin K-rich foods
+Knee,MCL (Medial Collateral Ligament) Sprain,MCL-specific exercises and knee bracing,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Head,Skull Fracture,Complete rest and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Quadriceps Tendinopathy,Eccentric quadriceps exercises and rest,NSAIDs and ice,Protein and vitamin E-rich foods
+Groin,Sportsman's Hernia,Core strengthening and gradual return to activity,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Boxer's Fracture,Hand therapy exercises and splinting,Pain medication and immobilization,Calcium and vitamin D-rich foods
+Finger,Jersey Finger,Hand therapy exercises and buddy taping,NSAIDs and immobilization,Collagen-rich foods and vitamin C-rich foods
+Shin,Compartment Syndrome,Activity modification and physical therapy,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Rotator Cuff Tear,Rotator cuff exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Patellar Dislocation,Patellar stabilization exercises and bracing,Pain management under medical supervision,Hydration and foods rich in vitamin A and C
+Knee,Plica Syndrome,Knee exercises and physical therapy,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Ankle,Os Trigonum Syndrome,Ankle flexibility exercises and rest,Pain relievers and ankle bracing,Omega-3 fatty acids and vitamin D-rich foods
+Hamstring,Hamstring Tendinopathy,Eccentric hamstring exercises and stretching,NSAIDs and physical therapy,Protein-rich diet and foods high in vitamin C
+Hip,Femoroacetabular Impingement (FAI),Hip mobility exercises and physical therapy,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,Subacromial Bursitis,Rotator cuff exercises and gentle stretching,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Back,Facet Joint Syndrome,Core-strengthening exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Ulnar Nerve Entrapment,Ulnar nerve gliding exercises and rest,Pain relievers and elbow bracing,Calcium and vitamin B-rich foods
+Wrist,De Quervain's Tenosynovitis,Wrist splinting and gentle exercises,NSAIDs and corticosteroid injections,Vitamin D and omega-3 fatty acids-rich foods
+Calf,Popliteal Artery Entrapment,Gradual return to activity and calf stretches,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Facet Joint Dysfunction,Neck exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Cuboid Syndrome,Foot stretches and orthopedic support,NSAIDs and rest,Anti-inflammatory diet and vitamin K-rich foods
+Knee,Osgood-Schlatter Disease,Quadriceps and hamstring stretches,Pain relievers and knee bracing,Hydration and foods rich in vitamin D
+Head,Basilar Skull Fracture,Complete rest and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Myositis Ossificans,Gentle movement exercises and rest,NSAIDs and ice,Protein and vitamin E-rich foods
+Groin,Obturator Nerve Entrapment,Hip and groin stretches and rest,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Paronychia,Warm water soaks and antibiotic ointment,Antibiotics and pain relievers,Zinc and vitamin C-rich foods
+Finger,Boutonniere Deformity,Finger splinting and gentle exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Anterior Compartment Syndrome,Modification of activities and physical therapy,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Sternoclavicular Joint Dislocation,Immobilization and gentle exercises,Pain management under medical supervision,Omega-3 fatty acids and protein-rich diet
+Knee,Chondromalacia Patellae,Quadriceps strengthening and low-impact exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Knee,PCL (Posterior Cruciate Ligament) Injury,PCL-specific rehabilitation exercises,Knee brace and prescribed pain medication,Anti-inflammatory diet and hydration
+Back,Sciatica,Core-strengthening exercises and yoga,Muscle relaxants and prescription pain relievers,Magnesium-rich foods
+Ankle,Achilles Tendonitis,Eccentric calf exercises and ankle flexibility drills,Naproxen,Hydration with electrolyte-rich drinks and collagen supplements
+Elbow,Tennis elbow,Forearm strengthening exercises,Topical NSAIDs,Vitamin E-rich foods
+Thigh,Strain,R.I.C.E. and gentle stretching,Over-the-counter pain relievers,Protein and anti-inflammatory foods
+Neck,Whiplash,Neck mobility exercises and gentle stretching,Muscle relaxants and pain relievers,Hydration with water and potassium-rich foods
+Hand,Carpal tunnel syndrome,"Hand and wrist stretches, ergonomic adjustments",NSAIDs,Foods rich in B vitamins
+Hip,Bursitis,Hip bursitis stretches and strengthening exercises,Corticosteroid injections,Anti-inflammatory diet with green leafy vegetables
+Knee,Meniscus tear,"Physical therapy, low-impact exercises",Pain management under medical supervision,Foods high in collagen for joint support
+Ankle,Retrocalcaneal Bursitis,Ankle stretches and anti-inflammatory exercises,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin C-rich foods
+Knee,Patellar Tendinopathy,Eccentric exercises and patellar straps,NSAIDs and physical therapy,Protein-rich diet and foods high in antioxidants
+Hip,Gluteal Tendinopathy,Glute-strengthening exercises and rest,NSAIDs and corticosteroid injections,Anti-inflammatory diet and collagen supplements
+Shoulder,Adhesive Capsulitis (Frozen Shoulder),Passive and active range-of-motion exercises,Pain-relief medication and physical therapy,Omega-3 fatty acids and vitamin D-rich foods
+Back,Lumbar Radiculopathy,Core-strengthening exercises and sciatica stretches,Pain relievers and physical therapy,Hydration and foods rich in vitamin B complex
+Elbow,Golfer's Elbow,Forearm pronation and supination exercises,Rest and elbow brace,Vitamin C and E-rich foods
+Wrist,Intersection Syndrome,Wrist stretches and avoidance of aggravating activities,NSAIDs and rest,Vitamin D and calcium-rich foods
+Calf,Gastrocnemius Tendinopathy,Eccentric calf exercises and heel lifts,NSAIDs and compression,Protein and potassium-rich foods
+Neck,Cervical Herniated Disc,Neck traction and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Turf Toe,R.I.C.E. protocol and toe taping,Pain relievers and orthopedic inserts,Anti-inflammatory diet and vitamin K-rich foods
+Knee,Osteochondritis Dissecans,Knee immobilization and low-impact exercises,NSAIDs and corticosteroid injections,Hydration and foods rich in antioxidants
+Head,Post-Concussion Syndrome,Cognitive rest and gradual return to activities,Monitoring and symptom management,Balanced diet with a focus on brain health
+Thigh,Quadratus Femoris Syndrome,Stretching and strengthening exercises,NSAIDs and physical therapy,Protein and vitamin E-rich foods
+Groin,Pubic Symphysis Dysfunction,Pelvic stability exercises and rest,NSAIDs and physical therapy,Anti-inflammatory diet and hydration
+Hand,Dupuytren's Contracture,Hand stretching exercises and splinting,NSAIDs and collagenase injections,Collagen-rich foods and vitamin C-rich foods
+Finger,Trigger Finger,Finger exercises and steroid injections,NSAIDs and hand splinting,Calcium and vitamin D-rich foods
+Shin,Tibial Stress Syndrome (Shin Splints),Shin splint stretches and gradual return,Rest and ice,Vitamin D and magnesium-rich foods
+Shoulder,Acromioclavicular Joint Arthritis,Joint mobility exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Lateral Collateral Ligament (LCL) Sprain,LCL-specific exercises and knee bracing,NSAIDs and prescribed pain medication,Hydration and foods rich in vitamin C
+Back,Spinal Stenosis,Gentle spinal exercises and low-impact activities,Pain relievers and physical therapy,Hydration and foods rich in vitamin B complex
+Ankle,Syndesmosis Sprain,Ankle stability exercises and gradual return,R.I.C.E. protocol and pain relievers,Omega-3 fatty acids and vitamin D-rich foods
+Elbow,Biceps Tendon Rupture,Rest and progressive elbow-strengthening exercises,Pain management under medical supervision,Protein and vitamin C-rich foods
+Wrist,Kienbock's Disease,Wrist immobilization and hand therapy exercises,Pain relievers and corticosteroid injections,Vitamin D and calcium-rich foods
+Calf,Peroneal Tendonitis,Peroneal tendon stretches and strengthening,NSAIDs and orthopedic support,Protein and anti-inflammatory foods
+Neck,Atlantoaxial Instability,Neck stabilization exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Haglund's Deformity,Foot stretches and heel pads,NSAIDs and orthopedic inserts,Anti-inflammatory diet and vitamin K-rich foods
+Knee,Bipartite Patella,Quadriceps and hamstring stretches,Pain relievers and knee bracing,Hydration and foods rich in antioxidants
+Head,Traumatic Brain Injury (TBI),Cognitive rehabilitation and medical monitoring,Medications based on symptoms,Balanced diet with a focus on brain health
+Thigh,Hamstring Myofascial Pain,Myofascial release and gentle stretching,NSAIDs and physical therapy,Protein and magnesium-rich foods
+Groin,Iliopsoas Tendinopathy,Hip flexor stretches and strengthening,NSAIDs and physical therapy,Anti-inflammatory diet and hydration
+Hand,Ulnar Styloid Fracture,Immobilization and hand therapy exercises,Pain relievers and rest,Calcium and vitamin D-rich foods
+Finger,Flexor Tendon Injury,Hand therapy exercises and splinting,NSAIDs and corticosteroid injections,Collagen-rich foods and vitamin C-rich foods
+Shin,Medial Tibial Stress Syndrome (MTSS),Gradual return to activity and shin splint stretches,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Bursitis,R.I.C.E. protocol and shoulder stretches,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Osteoarthritis,Low-impact exercises and joint-friendly activities,Analgesic creams and NSAIDs,Anti-inflammatory diet and glucosamine supplements
+Back,Pars Interarticularis Fracture,Bracing and spinal stabilization exercises,Pain relievers and physical therapy,Hydration and foods rich in vitamin B complex
+Ankle,Haglund's Syndrome,Foot stretches and heel lifts,NSAIDs and orthopedic inserts,Anti-inflammatory diet and vitamin D-rich foods
+Elbow,Radial Tunnel Syndrome,Wrist stretches and nerve gliding exercises,NSAIDs and corticosteroid injections,Vitamin B6 and magnesium-rich foods
+Wrist,TFCC Tear,Wrist-strengthening exercises and splinting,NSAIDs and corticosteroid injections,Vitamin D and omega-3 fatty acids-rich foods
+Calf,Soleus Strain,Gentle calf stretches and gradual return,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Suboccipital Headache,Neck stretches and posture correction,Muscle relaxants and NSAIDs,Hydration and foods rich in magnesium
+Foot,Bunion,Toe stretches and orthopedic footwear,Pain relievers and toe spacers,Omega-3 fatty acids and vitamin E-rich foods
+Knee,Osteophyte (Bone Spur),Joint-friendly exercises and range-of-motion drills,NSAIDs and corticosteroid injections,Hydration and foods rich in antioxidants
+Head,Cervicogenic Headache,Neck exercises and posture correction,NSAIDs and muscle relaxants,Hydration and foods rich in magnesium
+Thigh,Snapping Hamstring Syndrome,Hamstring stretching and eccentric exercises,NSAIDs and physical therapy,Protein and vitamin E-rich foods
+Groin,Femoral Acetabular Impingement (FAI),Hip exercises and physical therapy,NSAIDs and corticosteroid injections,Anti-inflammatory diet and collagen supplements
+Hand,Extensor Tendon Injury,Hand therapy exercises and splinting,NSAIDs and corticosteroid injections,Collagen-rich foods and vitamin C-rich foods
+Finger,De Quervain's Tenosynovitis,Wrist splinting and thumb exercises,NSAIDs and corticosteroid injections,Vitamin D and omega-3 fatty acids-rich foods
+Shin,Posterior Compartment Syndrome,Stretching and strengthening exercises,Pain relievers and orthopedic support,Vitamin D and magnesium-rich foods
+Shoulder,Thoracic Outlet Syndrome,Stretching and posture correction,NSAIDs and physical therapy,Omega-3 fatty acids and protein-rich diet
+Knee,Chondral Defect,Joint-preserving exercises and low-impact activities,Pain relievers and physical therapy,Hydration and foods rich in vitamin C
+Back,Spondylolisthesis,Core-strengthening exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Ankle,Anterior Impingement Syndrome,Ankle stability exercises and range-of-motion drills,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin D-rich foods
+Elbow,Little League Elbow,Elbow rest and gradual return to activity,Pain relievers and ice,Calcium and vitamin C-rich foods
+Wrist,Extensor Carpi Ulnaris Tendinopathy,Wrist-strengthening exercises and rest,NSAIDs and corticosteroid injections,Vitamin D and calcium-rich foods
+Calf,Compartment Syndrome,Activity modification and stretching,Pain relievers and orthopedic support,Protein and potassium-rich foods
+Neck,Brachial Plexus Injury,Physical therapy and nerve gliding exercises,Pain management and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Achilles Tendinosis,Eccentric heel drops and ankle flexibility drills,NSAIDs and orthopedic inserts,Anti-inflammatory diet and collagen supplements
+Knee,Bursitis,R.I.C.E. protocol and knee stretches,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Head,Occipital Neuralgia,Neck stretches and nerve pain medication,Muscle relaxants and heat therapy,Magnesium and B vitamins-rich foods
+Thigh,Hamstring Avulsion,Gentle stretching and progressive rehabilitation,Pain management under medical supervision,Protein and iron-rich foods
+Groin,Sports Hernia,Core strengthening and gradual return to activity,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Trigger Finger,Hand exercises and splinting,NSAIDs and corticosteroid injections,Vitamin C and E-rich foods
+Finger,Mallet Finger,Splinting and gentle finger exercises,Rest and ice,Collagen and calcium-rich foods
+Shin,Tibial Stress Fracture,Modified weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin K and D-rich fo
+Knee,Anterior Cruciate Ligament (ACL) Tear,ACL-specific rehabilitation exercises,Pain relievers and knee brace,Protein and vitamin C-rich foods
+Ankle,Lateral Ligament Sprain,Ankle stability exercises and proprioception drills,"NSAIDs and R.I.C.E. (Rest, Ice, Compression, Elevation)",Hydration with electrolyte-rich drinks
+Hamstring,Hamstring Strain,Progressive strengthening and dynamic stretching,Rest and ice,Protein-rich diet and foods high in vitamin C
+Hip,Femoroacetabular Impingement (FAI),Hip mobility exercises and targeted stretching,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,Rotator Cuff Tear,Rotator cuff exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Back,Lumbar Disc Herniation,McKenzie exercises and core stabilization,Prescription anti-inflammatory medication,Hydration and foods rich in vitamin B complex
+Elbow,Medial Epicondylitis (Golfer's Elbow),Forearm pronation and supination exercises,Rest and elbow brace,Vitamin C and E-rich foods
+Wrist,Carpal Tunnel Syndrome,Wrist stretches and ergonomic adjustments,NSAIDs and wrist splinting,Vitamin B6-rich foods and adequate hydration
+Calf,Gastrocnemius Strain,Calf stretches and gradual return to activity,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Radiculopathy,Neck traction and specific physical therapy exercises,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Plantar Fasciitis,Plantar fascia stretches and foot strengthening,NSAIDs and orthopedic inserts,Anti-inflammatory diet and proper arch support
+Knee,Patellofemoral Pain Syndrome,Quadriceps and hip strengthening exercises,NSAIDs and patellar taping,Hydration and foods rich in antioxidants
+Head,Concussion,Complete rest and gradual return to cognitive activities,Monitoring and medical evaluation,Hydration and a balanced diet with whole foods
+Thigh,Quadriceps Contusion,"R.I.C.E. (Rest, Ice, Compression, Elevation) and gentle movement",Over-the-counter pain relievers,Protein and vitamin K-rich foods
+Groin,Adductor Strain,Adductor muscle stretches and progressive strengthening,NSAIDs and ice,Hydration and potassium-rich foods
+Hand,De Quervain's Tenosynovitis,"Thumb and wrist stretches, splinting, and hand exercises",NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin D-rich foods
+Finger,Dislocated Finger,Finger mobility exercises and gentle realignment,Immobilization and pain relievers,Calcium-rich foods and vitamin K-rich foods
+Shin,Shin Splints,Calf stretches and modified weight-bearing exercises,Rest and ice,Vitamin D-rich foods and adequate arch support
+Knee,Posterior Cruciate Ligament (PCL) Injury,PCL-specific rehabilitation exercises,Knee brace and prescribed pain relievers,Anti-inflammatory diet and hydration
+Back,Scoliosis-Related Pain,Core-strengthening exercises and physical therapy,Pain medication and spinal bracing,Calcium and vitamin D-rich foods
+Ankle,Achilles Tendinopathy,Eccentric heel drops and Achilles stretches,NSAIDs and orthopedic inserts,Omega-3 fatty acids and collagen-rich foods
+Elbow,Ulnar Collateral Ligament (UCL) Injury,UCL rehabilitation exercises,Elbow brace and anti-inflammatory cream,Vitamin C and E-rich foods
+Hip,Labral Tear,Hip stability exercises and aquatic therapy,Pain management under supervision,Collagen and protein-rich diet
+Neck,Occipital Neuralgia,Neck stretches and nerve pain medication,Muscle relaxants and heat therapy,Magnesium and B vitamins-rich foods
+Thigh,Hamstring Avulsion,Gentle stretching and progressive rehabilitation,Pain management under medical supervision,Protein and iron-rich foods
+Groin,Sports Hernia,Core strengthening and gradual return to activity,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Trigger Finger,Hand exercises and splinting,NSAIDs and corticosteroid injections,Vitamin C and E-rich foods
+Finger,Mallet Finger,Splinting and gentle finger exercises,Rest and ice,Collagen and calcium-rich foods
+Shin,Tibial Stress Fracture,Modified weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin K and D-rich foods
+Shoulder,Dislocated Shoulder,"Immobilization, physical therapy, and shoulder stability exercises",Pain management under medical supervision,Protein and vitamin C-rich foods
+Knee,PCL (Posterior Cruciate Ligament) Injury,PCL-specific rehabilitation exercises,Knee brace and prescribed pain relievers,Anti-inflammatory diet and hydration
+Back,Scoliosis-Related Pain,Core-strengthening exercises and physical therapy,Pain medication and spinal bracing,Calcium and vitamin D-rich foods
+Ankle,Talar Dome Lesion,Ankle range of motion exercises and weight-bearing modifications,Pain management under supervision,Omega-3 fatty acids and collagen-rich foods
+Shoulder,AC Joint Separation,Shoulder stabilization exercises and physical therapy,Ice and prescribed pain relievers,Protein and antioxidant-rich foods
+Back,Lumbar Strain,McKenzie exercises and gradual mobilization,Muscle relaxants and NSAIDs,Hydration and magnesium-rich foods
+Elbow,Golfer's Elbow,Forearm pronation and supination exercises,Rest and elbow brace,Vitamin C and E-rich foods
+Hip,Snapping Hip Syndrome,Stretching and strengthening of hip muscles,NSAIDs and physical therapy,Turmeric and omega-3 fatty acids
+Neck,Cervical Radiculopathy,Neck traction and physical therapy,NSAIDs and muscle relaxants,Vitamin D and calcium-rich foods
+Thigh,Quadriceps Strain,Quadriceps strengthening exercises and R.I.C.E.,Over-the-counter pain relievers,Protein and anti-inflammatory foods
+Groin,Inguinal Hernia,Core-strengthening exercises and gradual return to activity,Pain management and surgical consultation,Fiber-rich diet and hydration
+Hand,Wrist Sprain,Wrist immobilization and gentle exercises,NSAIDs and hand therapy,Vitamin D and calcium-rich foods
+Finger,Boutonniere Deformity,Finger splinting and mobility exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Medial Tibial Stress Syndrome,Gradual return to activity and shin splint stretches,Ice and over-the-counter pain relievers,Vitamin D and calcium-rich foods
+Shoulder,Frozen Shoulder,Gentle range of motion exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Iliotibial Band Syndrome,IT band stretches and hip strengthening,NSAIDs and foam rolling,Hydration and anti-inflammatory foods
+Ankle,Os Trigonum Syndrome,Ankle flexibility exercises and rest,Pain relievers and ankle bracing,Omega-3 fatty acids and vitamin D-rich foods
+Hamstring,Hamstring Tendinopathy,Eccentric hamstring exercises and stretching,NSAIDs and physical therapy,Protein-rich diet and foods high in vitamin C
+Hip,Femoroacetabular Impingement (FAI),Hip mobility exercises and physical therapy,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,Subacromial Impingement,Rotator cuff exercises and shoulder stabilization,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Back,Lumbar Spondylosis,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Olecranon Bursitis,Elbow padding and stretching,NSAIDs and corticosteroid injections,Turmeric and vitamin K-rich foods
+Wrist,TFCC (Triangular Fibrocartilage Complex) Tear,Wrist-strengthening exercises,Immobilization and NSAIDs,Calcium and vitamin D-rich foods
+Calf,Gastrocnemius Strain,Calf stretches and gradual return to activity,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Strain,Neck exercises and heat therapy,Muscle relaxants and pain relievers,Hydration and vitamin C-rich foods
+Foot,Achilles Tendinopathy,Eccentric heel drops and Achilles stretches,NSAIDs and orthopedic inserts,Anti-inflammatory diet and hydration
+Knee,ACL (Anterior Cruciate Ligament) Tear,ACL rehabilitation exercises,Knee brace and prescribed pain medication,Protein and vitamin A-rich foods
+Head,Whiplash,Neck exercises and gentle stretching,Muscle relaxants and pain relievers,Hydration and foods rich in omega-3 fatty acids
+Thigh,Quadriceps Contusion,"Rest, ice, compression, and elevation (R.I.C.E.)",Pain relievers and gentle movement,Protein and vitamin K-rich foods
+Groin,Adductor Longus Tear,Adductor muscle strengthening and stretching,NSAIDs and physical therapy,Anti-inflammatory diet and hydration
+Hand,Metacarpal Fracture,Hand therapy exercises and splinting,Pain medication and immobilization,Calcium and vitamin D-rich foods
+Finger,Ligament Sprain,Finger mobility exercises and buddy taping,NSAIDs and rest,Collagen-rich foods and vitamin E-rich foods
+Shin,Stress Fracture,Reduced weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Rotator Cuff Tear,Rotator cuff exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Patellofemoral Pain Syndrome,Patellar stabilization exercises and knee taping,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Knee,Meniscal Tear,Meniscus-specific exercises and physical therapy,NSAIDs and knee brace,Omega-3 fatty acids and vitamin C-rich foods
+Ankle,Posterior Tibial Tendonitis,Arch strengthening and ankle flexibility drills,NSAIDs and orthopedic inserts,Vitamin D and magnesium-rich foods
+Hamstring,Hamstring Rupture,Surgical intervention and progressive rehab,Prescription pain medication,Protein and vitamin C-rich foods
+Hip,Hip Labral Tear,Hip stability exercises and targeted stretches,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,AC Joint Sprain,Shoulder stabilization exercises and rest,Pain relievers and shoulder brace,Omega-3 fatty acids and vitamin E-rich foods
+Back,Lumbar Stenosis,Core-strengthening exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Osteochondritis Dissecans (OCD),Elbow range of motion exercises and rest,Pain relievers and corticosteroid injections,Calcium and vitamin C-rich foods
+Wrist,Ganglion Cyst,Immobilization and aspiration of the cyst,Pain relievers and wrist brace,Omega-3 fatty acids and vitamin D-rich foods
+Calf,Popliteus Tendonitis,Eccentric calf exercises and stretching,"NSAIDs and R.I.C.E. (Rest, Ice, Compression, Elevation)",Protein and potassium-rich foods
+Neck,Occipital Condyle Fracture,Neck support and complete rest,Pain management under medical supervision,Hydration and foods rich in omega-3 fatty acids
+Foot,Jones Fracture,Non-weight-bearing exercises and immobilization,Pain relievers and walking boot,Anti-inflammatory diet and vitamin K-rich foods
+Knee,Iliopsoas Bursitis,Iliopsoas stretches and hip strengthening,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Head,Traumatic Brain Injury (TBI),Cognitive rehabilitation and rest,Medication based on severity,Balanced diet with emphasis on brain-boosting nutrients
+Thigh,Quadratus Femoris Strain,Gentle stretching and targeted strengthening,NSAIDs and rest,Protein and vitamin E-rich foods
+Groin,Abdominal Wall Strain,Core-strengthening exercises and gradual return,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Extensor Tendonitis,Hand therapy exercises and splinting,NSAIDs and rest,Collagen-rich foods and vitamin C-rich foods
+Finger,Jersey Finger,Hand therapy exercises and buddy taping,NSAIDs and immobilization,Calcium-rich foods and vitamin C-rich foods
+Shin,Medial Tibial Stress Syndrome (MTSS),Gradual return to activity and shin splint stretches,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Supraspinatus Tendinitis,Rotator cuff exercises and gentle stretching,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Patellar Tendonitis,Eccentric exercises and patellar taping,NSAIDs and physical therapy,Hydration and foods rich in antioxidants
+Knee,Lateral Collateral Ligament (LCL) Sprain,LCL-specific exercises and knee bracing,NSAIDs and prescribed pain medication,Hydration and foods rich in vitamin C
+Head,Temporomandibular Joint (TMJ) Disorder,Jaw exercises and relaxation techniques,NSAIDs and muscle relaxants,Soft diet and hydration
+Thigh,Hamstring Contusion,"R.I.C.E. (Rest, Ice, Compression, Elevation)",Over-the-counter pain relievers,Protein and anti-inflammatory foods
+Groin,Adductor Magnus Strain,Adductor stretches and progressive strengthening,NSAIDs and ice,Anti-inflammatory diet and hydration
+Hand,Boxer's Knuckle,Hand therapy exercises and buddy taping,NSAIDs and immobilization,Collagen-rich foods and vitamin C-rich foods
+Finger,Stenosing Tenosynovitis (Trigger Finger),Hand exercises and splinting,NSAIDs and corticosteroid injections,Vitamin D and calcium-rich foods
+Shin,Stress Fracture (Tibia),Modified weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin K and D-rich foods
+Shoulder,Clavicle Fracture,Sling immobilization and gentle range of motion,Pain management under medical supervision,Protein and vitamin C-rich foods
+Knee,Osteoarthritis (OA),Low-impact exercises and joint-strengthening,NSAIDs and corticosteroid injections,Omega-3 fatty acids and anti-inflammatory foods
+Back,Lumbar Compression Fracture,Core-strengthening exercises and back support,Pain relievers and muscle relaxants,Hydration and foods rich in vitamin D
+Ankle,Cuboid Subluxation,Foot stretches and supportive taping,NSAIDs and orthopedic inserts,Anti-inflammatory diet and vitamin K-rich foods
+Shoulder,Adhesive Capsulitis (Frozen Shoulder),Gentle range of motion exercises and physiotherapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Back,Spinal Stenosis,Physical therapy and lumbar spine exercises,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Biceps Tendon Rupture,Biceps-specific exercises and surgical repair,Pain relievers and immobilization,Protein and vitamin C-rich foods
+Wrist,Scaphoid Fracture,Immobilization and controlled wrist movement,Pain medication and wrist brace,Vitamin D and calcium-rich foods
+Calf,Soleus Strain,Rest and gradual return to activity,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Thoracic Outlet Syndrome,Stretching and postural exercises,NSAIDs and physical therapy,Hydration and foods rich in omega-3 fatty acids
+Foot,Morton's Neuroma,Metatarsal pad usage and foot stretches,NSAIDs and orthopedic inserts,Anti-inflammatory diet and proper footwear support
+Knee,Baker's Cyst,R.I.C.E. and joint aspiration,Pain relievers and compression,Hydration and foods rich in antioxidants
+Head,Frontal Bone Fracture,Rest and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Myositis Ossificans,Gentle movement exercises and rest,NSAIDs and ice,Protein and vitamin E-rich foods
+Groin,Pubic Symphysis Dysfunction,Pelvic stabilization exercises and physical therapy,Pain management and rest,Anti-inflammatory diet and hydration
+Hand,Dupuytren's Contracture,Hand exercises and splinting,NSAIDs and corticosteroid injections,Collagen-rich foods and vitamin E-rich foods
+Finger,Trigger Finger,Hand exercises and splinting,NSAIDs and corticosteroid injections,Vitamin D and calcium-rich foods
+Shin,Tibial Fracture,Immobilization and controlled weight-bearing,Pain relievers and orthopedic support,Vitamin K and D-rich foods
+Shoulder,SLAP (Superior Labrum Anterior to Posterior) Tear,SLAP tear-specific exercises,Pain management and surgical intervention,Omega-3 fatty acids and protein-rich diet
+Knee,Plica Syndrome,Knee exercises and physical therapy,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Knee,Patellar Tendon Rupture,Surgical repair and physical therapy,Pain management and knee brace,Protein and vitamin C-rich foods
+Back,Facet Joint Arthropathy,Core-strengthening exercises and spinal manipulation,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Cubital Tunnel Syndrome,Elbow splinting and nerve gliding exercises,NSAIDs and corticosteroid injections,Calcium and vitamin B-rich foods
+Wrist,Intersection Syndrome,Wrist splinting and rest,NSAIDs and corticosteroid injections,Vitamin D and omega-3 fatty acids-rich foods
+Calf,Compartment Syndrome,Activity modification and surgical intervention,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Whiplash,Neck mobility exercises and gentle stretching,Muscle relaxants and pain relievers,Hydration with water and potassium-rich foods
+Foot,Haglund's Deformity,Heel lifts and Achilles stretches,NSAIDs and orthopedic inserts,Anti-inflammatory diet and proper footwear support
+Knee,Osgood-Schlatter Disease,Quadriceps and hamstring stretches,Pain relievers and knee bracing,Hydration and foods rich in vitamin D
+Head,Subdural Hematoma,Surgical intervention and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Adductor Longus Tendinopathy,Adductor muscle stretches and eccentric exercises,NSAIDs and physical therapy,Anti-inflammatory diet and hydration
+Groin,Sports Hernia,Core strengthening and gradual return to activity,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Metacarpophalangeal Joint Sprain,Hand therapy exercises and splinting,NSAIDs and immobilization,Collagen-rich foods and vitamin C-rich foods
+Finger,Swan Neck Deformity,Finger splinting and strengthening exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Anterior Compartment Syndrome,Activity modification and physical therapy,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Sternoclavicular Joint Dislocation,Immobilization and gentle exercises,Pain management under medical supervision,Omega-3 fatty acids and protein-rich diet
+Knee,Chondromalacia Patellae,Quadriceps strengthening and low-impact exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Knee,PCL (Posterior Cruciate Ligament) Injury,PCL-specific rehabilitation exercises,Knee brace and prescribed pain medication,Anti-inflammatory diet and hydration
+Back,Sciatica,Core-strengthening exercises and yoga,Muscle relaxants and prescription pain relievers,Magnesium-rich foods
+Ankle,Achilles Tendonitis,Eccentric calf exercises and ankle flexibility drills,Naproxen,Hydration with electrolyte-rich drinks and collagen supplements
+Elbow,Tennis Elbow,Forearm strengthening exercises,Topical NSAIDs,Vitamin E-rich foods
+Thigh,Strain,R.I.C.E. and gentle stretching,Over-the-counter pain relievers,Protein and anti-inflammatory foods
+Neck,Whiplash,Neck mobility exercises and gentle stretching,Muscle relaxants and pain relievers,Hydration with water and potassium-rich foods
+Hand,Carpal Tunnel Syndrome,"Hand and wrist stretches, ergonomic adjustments",NSAIDs,Foods rich in B vitamins
+Knee,IT Band Syndrome,IT band stretches and hip strengthening,NSAIDs and topical pain relief,Hydration and foods rich in magnesium
+Ankle,Peroneal Tendonitis,Peroneal tendon exercises and ankle stability,Ice and anti-inflammatory medication,Omega-3 fatty acids and vitamin D-rich foods
+Hamstring,Avulsion Injury,Progressive rehabilitation and gentle stretching,Pain relievers and muscle relaxants,Protein-rich diet and foods high in vitamin C
+Hip,Hip Impingement,Hip mobility exercises and physical therapy,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,SLAP Tear,SLAP tear-specific exercises and rest,Pain management ointments,Omega-3 fatty acids and vitamin E-rich foods
+Back,Muscle Spasms,Gentle stretching and back exercises,Muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Throwing pain,Elbow strengthening drills,Anti-inflammatory cream,Calcium-rich foods
+Wrist,Tenderness,Isometric wrist exercises,Topical analgesics,Collagen supplements
+Calf,Strain,Rest and gradual return,Pain relievers,Protein and Vitamin C
+Neck,Neck pain,Aquatic therapy,Muscle relaxants,"Hydration, potassium-rich foods"
+Foot,Plantar Fasciitis,Foot stretches,Orthopedic inserts,Anti-inflammatory diet
+Calf,Strain,Rest and gradual return,Pain relievers,Protein and Vitamin C
+Head,Concussion,Complete rest,Monitoring and medical evaluation,Hydration and balanced diet
+Thigh,Bruising,Gentle movement exercises,Over-the-counter pain relievers,Vitamin K-rich foods
+Groin,Strain,Groin stretches and strengthening,Icing and NSAIDs,Protein and anti-inflammatory foods
+Hand,Sprain,Hand therapy exercises,Topical analgesics,Collagen-rich foods
+Finger,Dislocation,Finger mobility exercises,Splinting,Calcium-rich foods
+Shin,Shin splints,Shin splint stretches and strengthening,Rest and ice,Vitamin D-rich foods
+Knee,Meniscal tear,Physical therapy and controlled movement,Pain relievers and anti-inflammatory drugs,Omega-3 fatty acids and vitamin C-rich foods
+Ankle,High ankle sprain,R.I.C.E. protocol and ankle stability drills,Prescription pain medication,Hydration with electrolyte-rich drinks
+Hamstring,Avulsion Injury,Progressive rehabilitation and gentle stretching,Pain relievers and muscle relaxants,Protein-rich diet and foods high in vitamin C
+Hip,Labral tear,Hip stabilization exercises and aquatic therapy,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,SLAP Tear,SLAP tear-specific exercises and rest,Pain management under medical supervision,Omega-3 fatty acids and vitamin E-rich foods
+Back,Sacroiliac Joint Dysfunction,SI joint stabilization exercises,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Radial Head Fracture,Elbow range of motion exercises and bracing,Pain relievers and immobilization,Calcium and vitamin C-rich foods
+Wrist,Scaphoid Fracture,Wrist immobilization and rehabilitation drills,Pain medication and splinting,Vitamin D and calcium-rich foods
+Calf,Achilles Tendon Rupture,Controlled weight-bearing exercises and physical therapy,Immobilization and prescribed pain medication,Protein and collagen-rich foods
+Neck,Herniated Cervical Disc,Neck traction and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Lisfranc Injury,Non-weight-bearing exercises and orthopedic support,Pain relievers and immobilization,Anti-inflammatory diet and vitamin K-rich foods
+Knee,MCL (Medial Collateral Ligament) Sprain,MCL-specific exercises and knee bracing,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Head,Skull Fracture,Complete rest and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Quadriceps Tendinopathy,Eccentric quadriceps exercises and rest,NSAIDs and ice,Protein and vitamin E-rich foods
+Groin,Sportsman's Hernia,Core strengthening and gradual return to activity,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Boxer's Fracture,Hand therapy exercises and splinting,Pain medication and immobilization,Calcium and vitamin D-rich foods
+Finger,Jersey Finger,Hand therapy exercises and buddy taping,NSAIDs and immobilization,Collagen-rich foods and vitamin C-rich foods
+Shin,Compartment Syndrome,Activity modification and physical therapy,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Rotator Cuff Tear,Rotator cuff exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Patellar Dislocation,Patellar stabilization exercises and bracing,Pain management under medical supervision,Hydration and foods rich in vitamin A and C
+Knee,Plica Syndrome,Knee exercises and physical therapy,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Ankle,Os Trigonum Syndrome,Ankle flexibility exercises and rest,Pain relievers and ankle bracing,Omega-3 fatty acids and vitamin D-rich foods
+Hamstring,Hamstring Tendinopathy,Eccentric hamstring exercises and stretching,NSAIDs and physical therapy,Protein-rich diet and foods high in vitamin C
+Hip,Femoroacetabular Impingement (FAI),Hip mobility exercises and physical therapy,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,Subacromial Bursitis,Rotator cuff exercises and gentle stretching,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Back,Facet Joint Syndrome,Core-strengthening exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Ulnar Nerve Entrapment,Ulnar nerve gliding exercises and rest,Pain relievers and elbow bracing,Calcium and vitamin B-rich foods
+Wrist,De Quervain's Tenosynovitis,Wrist splinting and gentle exercises,NSAIDs and corticosteroid injections,Vitamin D and omega-3 fatty acids-rich foods
+Calf,Popliteal Artery Entrapment,Gradual return to activity and calf stretches,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Facet Joint Dysfunction,Neck exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Cuboid Syndrome,Foot stretches and orthopedic support,NSAIDs and rest,Anti-inflammatory diet and vitamin K-rich foods
+Knee,Osgood-Schlatter Disease,Quadriceps and hamstring stretches,Pain relievers and knee bracing,Hydration and foods rich in vitamin D
+Head,Basilar Skull Fracture,Complete rest and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Myositis Ossificans,Gentle movement exercises and rest,NSAIDs and ice,Protein and vitamin E-rich foods
+Groin,Obturator Nerve Entrapment,Hip and groin stretches and rest,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Paronychia,Warm water soaks and antibiotic ointment,Antibiotics and pain relievers,Zinc and vitamin C-rich foods
+Finger,Boutonniere Deformity,Finger splinting and gentle exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Anterior Compartment Syndrome,Modification of activities and physical therapy,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Rotator Cuff Tear,Rotator cuff exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Chondromalacia Patellae,Quadriceps strengthening and low-impact exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Knee,PCL (Posterior Cruciate Ligament) Injury,PCL-specific rehabilitation exercises,Knee brace and prescribed pain medication,Anti-inflammatory diet and hydration
+Back,Sciatica,Core-strengthening exercises and yoga,Muscle relaxants and prescription pain relievers,Magnesium-rich foods
+Ankle,Achilles Tendonitis,Eccentric calf exercises and ankle flexibility drills,Naproxen,Hydration with electrolyte-rich drinks and collagen supplements
+Elbow,Tennis elbow,Forearm strengthening exercises,Topical NSAIDs,Vitamin E-rich foods
+Thigh,Strain,R.I.C.E. and gentle stretching,Over-the-counter pain relievers,Protein and anti-inflammatory foods
+Neck,Whiplash,Neck mobility exercises and gentle stretching,Muscle relaxants and pain relievers,Hydration with water and potassium-rich foods
+Hand,Carpal tunnel syndrome,"Hand and wrist stretches, ergonomic adjustments",NSAIDs,Foods rich in B vitamins
+Hip,Bursitis,Hip bursitis stretches and strengthening exercises,Corticosteroid injections,Anti-inflammatory diet with green leafy vegetables
+Knee,Meniscus tear,"Physical therapy, low-impact exercises",Pain management under medical supervision,Foods high in collagen for joint support
+Knee,Osteoarthritis,Low-impact exercises and joint-friendly activities,NSAIDs and glucosamine/chondroitin supplements,Omega-3 fatty acids and anti-inflammatory foods
+Ankle,Calcaneal Fracture,Controlled weight-bearing exercises and ankle mobilization,Pain relievers and orthopedic support,Calcium and vitamin D-rich foods
+Hamstring,Hamstring Tendinosis,Eccentric hamstring exercises and physical therapy,NSAIDs and corticosteroid injections,Protein-rich diet and foods high in vitamin C
+Hip,Piriformis Syndrome,Stretching and strengthening of the piriformis muscle,NSAIDs and muscle relaxants,Anti-inflammatory foods and magnesium-rich diet
+Shoulder,AC Joint Dislocation,Immobilization and shoulder stability exercises,Pain relievers and ice,Protein and vitamin C-rich foods
+Back,Lumbar Stenosis,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Olecranon Fracture,Elbow immobilization and gentle range of motion,Pain relievers and immobilization,Calcium and vitamin C-rich foods
+Wrist,Ganglion Cyst,Aspiration or surgical removal and wrist exercises,Pain relievers and immobilization,Anti-inflammatory diet and hydration
+Calf,Compartment Syndrome,Modification of activities and physical therapy,Pain relievers and orthopedic support,Protein and potassium-rich foods
+Neck,Cervical Spondylosis,Neck exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Sesamoiditis,Foot stretches and orthopedic support,NSAIDs and orthopedic padding,Anti-inflammatory diet and vitamin K-rich foods
+Knee,Patellar Tendonitis,Eccentric and concentric strengthening exercises,NSAIDs and physical therapy,Hydration and foods rich in antioxidants
+Head,Skull Base Fracture,Complete rest and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Quadriceps Contusion,"R.I.C.E. (Rest, Ice, Compression, Elevation) and gentle movement",Over-the-counter pain relievers,Protein and vitamin K-rich foods
+Groin,Obturator Nerve Entrapment,Hip and groin stretches and rest,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Paronychia,Warm water soaks and antibiotic ointment,Antibiotics and pain relievers,Zinc and vitamin C-rich foods
+Finger,Boutonniere Deformity,Finger splinting and gentle exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Anterior Compartment Syndrome,Modification of activities and physical therapy,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Rotator Cuff Tear,Rotator cuff exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Chondromalacia Patellae,Quadriceps strengthening and low-impact exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Knee,PCL (Posterior Cruciate Ligament) Injury,PCL-specific rehabilitation exercises,Knee brace and prescribed pain medication,Anti-inflammatory diet and hydration
+Back,Sciatica,Core-strengthening exercises and yoga,Muscle relaxants and prescription pain relievers,Magnesium-rich foods
+Ankle,Achilles Tendonitis,Eccentric calf exercises and ankle flexibility drills,Naproxen,Hydration with electrolyte-rich drinks and collagen supplements
+Elbow,Tennis elbow,Forearm strengthening exercises,Topical NSAIDs,Vitamin E-rich foods
+Thigh,Strain,R.I.C.E. and gentle stretching,Over-the-counter pain relievers,Protein and anti-inflammatory foods
+Neck,Whiplash,Neck mobility exercises and gentle stretching,Muscle relaxants and pain relievers,Hydration with water and potassium-rich foods
+Hand,Carpal tunnel syndrome,"Hand and wrist stretches, ergonomic adjustments",NSAIDs,Foods rich in B vitamins
+Hip,Bursitis,Hip bursitis stretches and strengthening exercises,Corticosteroid injections,Anti-inflammatory diet with green leafy vegetables
+Knee,Meniscus tear,"Physical therapy, low-impact exercises",Pain management under medical supervision,Foods high in collagen for joint support
+Knee,Osteochondritis Dissecans,Low-impact exercises and physical therapy,NSAIDs and pain relievers,Omega-3 fatty acids and vitamin C-rich foods
+Back,Lumbar Radiculopathy,Core-strengthening exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Ankle,Retrocalcaneal Bursitis,Achilles tendon stretches and heel pads,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Hamstring,Proximal Hamstring Tendinopathy,Eccentric hamstring exercises and stretching,NSAIDs and physical therapy,Protein-rich diet and foods high in vitamin C
+Hip,Trochanteric Bursitis,Hip abduction exercises and rest,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,Bicipital Tendinitis,Biceps tendon stretches and gentle exercises,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Back,Lumbar Disc Herniation,McKenzie exercises and core stabilization,Prescription anti-inflammatory medication,Hydration and foods rich in vitamin B complex
+Elbow,Medial Epicondylitis (Golfer's Elbow),Forearm pronation and supination exercises,Rest and elbow brace,Vitamin C and E-rich foods
+Wrist,Carpal Tunnel Syndrome,Wrist stretches and ergonomic adjustments,NSAIDs and wrist splinting,Vitamin B6-rich foods and adequate hydration
+Calf,Gastrocnemius Strain,Calf stretches and gradual return,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Radiculopathy,Neck stretches and nerve gliding exercises,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Navicular Stress Fracture,Non-weight-bearing activities and rest,Pain relievers and orthopedic support,Calcium and vitamin D-rich foods
+Knee,Osgood-Schlatter Disease,Quadriceps and hamstring stretches,Pain relievers and knee bracing,Hydration and foods rich in vitamin D
+Head,Basilar Skull Fracture,Complete rest and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Myositis Ossificans,Gentle movement exercises and rest,NSAIDs and ice,Protein and vitamin E-rich foods
+Groin,Obturator Nerve Entrapment,Hip and groin stretches and rest,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Paronychia,Warm water soaks and antibiotic ointment,Antibiotics and pain relievers,Zinc and vitamin C-rich foods
+Finger,Boutonniere Deformity,Finger splinting and gentle exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Anterior Compartment Syndrome,Modification of activities and physical therapy,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Rotator Cuff Tear,Rotator cuff exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Chondromalacia Patellae,Quadriceps strengthening and low-impact exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Knee,PCL (Posterior Cruciate Ligament) Injury,PCL-specific rehabilitation exercises,Knee brace and prescribed pain medication,Anti-inflammatory diet and hydration
+Back,Sciatica,Core-strengthening exercises and yoga,Muscle relaxants and prescription pain relievers,Magnesium-rich foods
+Ankle,Achilles Tendonitis,Eccentric calf exercises and ankle flexibility drills,Naproxen,Hydration with electrolyte-rich drinks and collagen supplements
+Elbow,Tennis elbow,Forearm strengthening exercises,Topical NSAIDs,Vitamin E-rich foods
+Thigh,Strain,R.I.C.E. and gentle stretching,Over-the-counter pain relievers,Protein and anti-inflammatory foods
+Neck,Whiplash,Neck mobility exercises and gentle stretching,Muscle relaxants and pain relievers,Hydration with water and potassium-rich foods
+Hand,Carpal tunnel syndrome,"Hand and wrist stretches, ergonomic adjustments",NSAIDs,Foods rich in B vitamins
+Hip,Bursitis,Hip bursitis stretches and strengthening exercises,Corticosteroid injections,Anti-inflammatory diet with green leafy vegetables
+Knee,Meniscus tear,"Physical therapy, low-impact exercises",Pain management under medical supervision,Foods high in collagen for joint support
+Knee,Osteochondritis Dissecans,Low-impact exercises and physical therapy,NSAIDs and pain relievers,Omega-3 fatty acids and vitamin C-rich foods
+Back,Lumbar Radiculopathy,Core-strengthening exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Ankle,Retrocalcaneal Bursitis,Achilles tendon stretches and heel pads,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Hamstring,Proximal Hamstring Tendinopathy,Eccentric hamstring exercises and stretching,NSAIDs and physical therapy,Protein-rich diet and foods high in vitamin C
+Hip,Trochanteric Bursitis,Hip abduction exercises and rest,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,Bicipital Tendinitis,Biceps tendon stretches and gentle exercises,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Back,Lumbar Disc Herniation,McKenzie exercises and core stabilization,Prescription anti-inflammatory medication,Hydration and foods rich in vitamin B complex
+Elbow,Medial Epicondylitis (Golfer's Elbow),Forearm pronation and supination exercises,Rest and elbow brace,Vitamin C and E-rich foods
+Wrist,Carpal Tunnel Syndrome,Wrist stretches and ergonomic adjustments,NSAIDs and wrist splinting,Vitamin B6-rich foods and adequate hydration
+Calf,Gastrocnemius Strain,Calf stretches and gradual return,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Radiculopathy,Neck stretches and nerve gliding exercises,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Navicular Stress Fracture,Non-weight-bearing activities and rest,Pain relievers and orthopedic support,Calcium and vitamin D-rich foods
+Knee,Osgood-Schlatter Disease,Quadriceps and hamstring stretches,Pain relievers and knee bracing,Hydration and foods rich in vitamin D
+Head,Basilar Skull Fracture,Complete rest and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Myositis Ossificans,Gentle movement exercises and rest,NSAIDs and ice,Protein and vitamin E-rich foods
+Groin,Obturator Nerve Entrapment,Hip and groin stretches and rest,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Paronychia,Warm water soaks and antibiotic ointment,Antibiotics and pain relievers,Zinc and vitamin C-rich foods
+Finger,Boutonniere Deformity,Finger splinting and gentle exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Anterior Compartment Syndrome,Modification of activities and physical therapy,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Rotator Cuff Tear,Rotator cuff exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Chondromalacia Patellae,Quadriceps strengthening and low-impact exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Knee,Osteochondritis Dissecans,Low-impact exercises and physical therapy,NSAIDs and pain relievers,Omega-3 fatty acids and vitamin C-rich foods
+Ankle,Retrocalcaneal Bursitis,Achilles tendon stretches and heel pads,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Hamstring,Proximal Hamstring Tendinopathy,Eccentric hamstring exercises and stretching,NSAIDs and physical therapy,Protein-rich diet and foods high in vitamin C
+Knee,Popliteus Tendinitis,Strengthening exercises and gradual return to activity,NSAIDs and targeted physical therapy,Protein and omega-3 fatty acids-rich foods
+Ankle,Posterior Tibial Tendon Dysfunction,Arch exercises and orthopedic support,Pain relievers and orthopedic inserts,Calcium and vitamin D-rich foods
+Hamstring,Hamstring Avulsion,Progressive rehabilitation and gentle stretching,Pain management under medical supervision,Protein-rich diet and foods high in vitamin C
+Hip,Snapping Hip Syndrome,Hip flexibility exercises and physical therapy,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,Dislocated Shoulder,Stabilization exercises and gradual mobilization,Pain relievers and muscle relaxants,Omega-3 fatty acids and vitamin E-rich foods
+Back,Scoliosis,Core-strengthening exercises and postural adjustments,NSAIDs and physical therapy,Hydration and foods rich in vitamin B complex
+Elbow,Golf Elbow (Medial Epicondylitis),Rest and forearm stretching,Topical NSAIDs and elbow bracing,Vitamin C and E-rich foods
+Wrist,Kienböck's Disease,Wrist immobilization and range of motion exercises,Pain relievers and hand therapy,Calcium and vitamin D-rich foods
+Calf,Compartment Syndrome,Activity modification and fasciotomy surgery,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Herniated Disc,Physical therapy and targeted neck exercises,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Knee,Patellar Tendonitis,Patellar tendon stretches and eccentric exercises,NSAIDs and topical pain relievers,Hydration and foods rich in antioxidants
+Ankle,Talus Fracture,Ankle range of motion exercises and gentle walking,Pain relievers and immobilization,Calcium and vitamin D-rich foods
+Hamstring,Ischial Tuberosity Avulsion,Gentle stretching and progressive rehabilitation,Pain management under medical supervision,Protein-rich diet and vitamin C-rich foods
+Hip,Hip Labral Tear,Hip stability exercises and aquatic therapy,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,Acromioclavicular (AC) Joint Sprain,Rest and targeted exercises,Pain relievers and ice,Omega-3 fatty acids and vitamin E-rich foods
+Back,Lumbar Strain,Core-strengthening exercises and gradual mobilization,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Biceps Tendonitis,Biceps tendon stretches and strengthening drills,NSAIDs and corticosteroid injections,Vitamin C and E-rich foods
+Wrist,Ulnar Styloid Fracture,Wrist immobilization and gentle range of motion exercises,Pain relievers and hand therapy,Calcium and vitamin D-rich foods
+Calf,Gastrocnemius Rupture,Controlled weight-bearing exercises and physical therapy,Pain management under medical supervision,Protein and collagen-rich foods
+Neck,Cervical Disc Degeneration,Neck exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Metatarsal Stress Fracture,Modified weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Knee,Lateral Collateral Ligament (LCL) Sprain,LCL-specific exercises and knee bracing,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Head,Skull Base Fracture,Complete rest and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Quadriceps Rupture,Surgical repair and gradual rehabilitation,Pain management under medical supervision,Protein and vitamin E-rich foods
+Groin,Inguinal Canal Hernia,Core-strengthening exercises and gradual return to activity,Pain management and surgical consultation,Fiber-rich diet and hydration
+Hand,Scaphoid Fracture,Wrist immobilization and controlled range of motion exercises,Pain relievers and hand therapy,Vitamin D and calcium-rich foods
+Finger,Flexor Tendon Injury,Hand therapy exercises and protective splinting,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Shin,Anterior Tibial Stress Syndrome,Modified activities and shin splint stretches,Rest and ice,Vitamin D and calcium-rich foods
+Shoulder,Glenoid Labrum Tear,Shoulder stabilization exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Chondromalacia Patellae,Quadriceps strengthening and low-impact exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Back,Lumbar Facet Joint Arthropathy,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Ankle,Tarsal Tunnel Syndrome,Ankle stretches and nerve gliding exercises,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin D-rich foods
+Elbow,Triceps Tendonitis,Triceps stretches and strengthening exercises,NSAIDs and corticosteroid injections,Vitamin C and E-rich foods
+Wrist,Carpal Boss,Wrist exercises and protective bracing,NSAIDs and corticosteroid injections,Vitamin D and calcium-rich foods
+Calf,Soleus Strain,R.I.C.E. protocol and gentle stretching,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Spondylosis,Neck mobility exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Hallux Rigidus,Toe stretches and orthopedic footwear,NSAIDs and orthopedic inserts,Anti-inflammatory diet and vitamin K-rich foods
+Knee,Plica Syndrome,Knee exercises and physical therapy,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Head,Temporomandibular Joint (TMJ) Dysfunction,Jaw exercises and oral splints,Muscle relaxants and pain relievers,Soft diet and hydration
+Thigh,Quadriceps Contusion,"Rest, ice, compression, and elevation (R.I.C.E.)",Over-the-counter pain relievers,Protein and vitamin K-rich foods
+Groin,Obturator Nerve Entrapment,Hip and groin stretches and rest,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Dupuytren's Contracture,Hand exercises and stretching,NSAIDs and corticosteroid injections,Collagen-rich foods and vitamin E-rich foods
+Finger,Boutonniere Deformity,Finger splinting and mobility exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Medial Tibial Stress Syndrome,Gradual return to activity and shin splint stretches,Ice and over-the-counter pain relievers,Vitamin D and calcium-rich foods
+Shoulder,Frozen Shoulder,Gentle range of motion exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Iliotibial Band Syndrome,IT band stretches and hip strengthening,NSAIDs and foam rolling,Hydration and anti-inflammatory foods
+Ankle,Os Trigonum Syndrome,Ankle flexibility exercises and rest,Pain relievers and ankle bracing,Omega-3 fatty acids and vitamin D-rich foods
+Hamstring,Hamstring Tendinopathy,Eccentric hamstring exercises and stretching,NSAIDs and physical therapy,Protein-rich diet and foods high in vitamin C
+Hip,Femoroacetabular Impingement (FAI),Hip mobility exercises and physical therapy,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,Subacromial Impingement,Rotator cuff exercises and shoulder stabilization,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Back,Lumbar Spondylosis,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Olecranon Bursitis,Elbow padding and stretching,NSAIDs and corticosteroid injections,Turmeric and vitamin K-rich foods
+Wrist,TFCC (Triangular Fibrocartilage Complex) Tear,Wrist-strengthening exercises,Immobilization and NSAIDs,Calcium and vitamin D-rich foods
+Calf,Gastrocnemius Strain,Calf stretches and gradual return to activity,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Strain,Neck exercises and heat therapy,Muscle relaxants and pain relievers,Hydration and vitamin C-rich foods
+Foot,Achilles Tendinopathy,Eccentric heel drops and Achilles stretches,NSAIDs and orthopedic inserts,Anti-inflammatory diet and hydration
+Knee,ACL (Anterior Cruciate Ligament) Tear,ACL rehabilitation exercises,Knee brace and prescribed pain medication,Protein and vitamin A-rich foods
+Head,Whiplash,Neck exercises and gentle stretching,Muscle relaxants and pain relievers,Hydration and foods rich in omega-3 fatty acids
+Thigh,Quadriceps Contusion,"Rest, ice, compression, and elevation (R.I.C.E.)",Pain relievers and gentle movement,Protein and vitamin K-rich foods
+Groin,Adductor Longus Tear,Adductor muscle strengthening and stretching,NSAIDs and physical therapy,Anti-inflammatory diet and hydration
+Hand,Metacarpal Fracture,Hand therapy exercises and splinting,Pain medication and immobilization,Calcium and vitamin D-rich foods
+Finger,Ligament Sprain,Finger mobility exercises and buddy taping,NSAIDs and rest,Collagen-rich foods and vitamin E-rich foods
+Shin,Stress Fracture,Reduced weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Rotator Cuff Tear,Rotator cuff exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Patellofemoral Pain Syndrome,Patellar stabilization exercises and knee taping,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Knee,Patellofemoral Syndrome,Quadriceps strengthening and low-impact exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Ankle,Cuboid Subluxation,Foot stretches and manipulation,Pain relievers and orthopedic support,Anti-inflammatory diet and vitamin K-rich foods
+Hamstring,Hamstring Strain,R.I.C.E. protocol and gentle stretching,Pain relievers and muscle relaxants,Protein-rich diet and foods high in vitamin C
+Hip,Piriformis Syndrome,Stretching and strengthening exercises,NSAIDs and targeted physical therapy,Anti-inflammatory foods and collagen supplements
+Shoulder,AC Joint Dislocation,Immobilization and gradual mobilization,Pain relievers and muscle relaxants,Omega-3 fatty acids and vitamin E-rich foods
+Back,Herniated Thoracic Disc,Thoracic spine exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Osteochondritis Dissecans (OCD),Elbow range of motion exercises,NSAIDs and corticosteroid injections,Vitamin C and E-rich foods
+Wrist,Intersection Syndrome,Wrist stretches and avoidance of aggravating activities,NSAIDs and wrist immobilization,Calcium and vitamin D-rich foods
+Calf,Tibialis Posterior Tendinopathy,Foot arch exercises and orthopedic support,Pain relievers and orthopedic inserts,Protein and potassium-rich foods
+Neck,Thoracic Outlet Syndrome,Physical therapy and postural exercises,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Metatarsalgia,Foot stretches and orthopedic support,Pain relievers and orthopedic inserts,Vitamin D and calcium-rich foods
+Knee,Osgood-Schlatter Disease,Quadriceps and hamstring stretches,Pain relievers and knee bracing,Hydration and foods rich in vitamin D
+Head,Occipital Neuralgia,Neck stretches and nerve blocks,Pain relievers and muscle relaxants,Hydration and anti-inflammatory diet
+Thigh,Hamstring Contusion,R.I.C.E. protocol and gentle movement,Over-the-counter pain relievers,Protein and vitamin K-rich foods
+Groin,Sports Hernia,Core-strengthening exercises and gradual return to activity,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Mallet Finger,Finger splinting and gentle exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Finger,Trigger Finger,Hand exercises and splinting,NSAIDs and hand therapy,Vitamin D and calcium-rich foods
+Shin,Chronic Exertional Compartment Syndrome,Modified activities and compartment pressure measurement,Pain relievers and orthopedic support,Protein and potassium-rich foods
+Shoulder,Labral Tear,Shoulder stabilization exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Chondral Defect,Arthroscopic surgery and physical therapy,Pain relievers and prescribed medications,Hydration and foods rich in antioxidants
+Back,Discogenic Back Pain,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Radial Tunnel Syndrome,Forearm stretches and rest,NSAIDs and corticosteroid injections,Vitamin C and E-rich foods
+Wrist,De Quervain's Tenosynovitis,Wrist splinting and gentle exercises,NSAIDs and corticosteroid injections,Vitamin D and omega-3 fatty acids-rich foods
+Calf,Calf Compartment Syndrome,Modified activities and compartment pressure measurement,Pain relievers and orthopedic support,Protein and potassium-rich foods
+Neck,Cervical Radiculopathy,Neck exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Tarsal Coalition,Orthopedic interventions and foot exercises,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Knee,MCL (Medial Collateral Ligament) Sprain,MCL-specific exercises and knee bracing,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Head,Subdural Hematoma,Medical intervention and monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Myositis Ossificans,Gentle movement exercises and rest,NSAIDs and ice,Protein and vitamin E-rich foods
+Groin,Pudendal Nerve Entrapment,Pelvic floor exercises and physical therapy,Pain management and nerve blocks,Anti-inflammatory diet and hydration
+Hand,Gamekeeper's Thumb,Thumb splinting and gentle exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Finger,Jersey Finger,Hand therapy exercises and buddy taping,NSAIDs and immobilization,Collagen-rich foods and vitamin C-rich foods
+Shin,Medial Tibial Stress Syndrome,"Rest, ice, compression, and elevation (R.I.C.E.)",Pain relievers and shin splint stretches,Vitamin D and calcium-rich foods
+Shoulder,Bicipital Tendinitis,Biceps tendon stretches and strengthening drills,NSAIDs and corticosteroid injections,Vitamin C and E-rich foods
+Knee,Plica Syndrome,Knee exercises and physical therapy,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Ankle,Anterior Ankle Impingement,Ankle mobility exercises and orthopedic interventions,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin D-rich foods
+Hamstring,Hamstring Tendinopathy,Eccentric hamstring exercises and stretching,NSAIDs and physical therapy,Protein-rich diet and foods high in vitamin C
+Hip,Femoral Neck Stress Fracture,Reduced weight-bearing exercises and rest,Pain relievers and orthopedic support,Calcium and vitamin D-rich foods
+Shoulder,Snapping Scapula Syndrome,Scapular stabilization exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Back,Lumbar Radiculopathy,Core-strengthening exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Olecranon Fracture,Elbow range of motion exercises and bracing,Pain relievers and immobilization,Calcium and vitamin B-rich foods
+Wrist,Ganglion Cyst,Aspiration and wrist exercises,Pain relievers and immobilization,Vitamin D and omega-3 fatty acids-rich foods
+Calf,Tibialis Anterior Tendinopathy,Eccentric exercises and calf stretches,NSAIDs and physical therapy,Protein and potassium-rich foods
+Neck,Cervical Dystonia,Botulinum toxin injections and physical therapy,Muscle relaxants and pain relievers,Hydration and foods rich in omega-3 fatty acids
+Foot,Retrocalcaneal Bursitis,Achilles tendon stretches and heel pads,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory diet
+Knee,Osteochondral Lesion,Arthroscopic surgery and rehabilitation,Pain relievers and prescribed medications,Hydration and foods rich in antioxidants
+Head,Trigeminal Neuralgia,Medication management and nerve blocks,Pain relievers and muscle relaxants,Balanced diet with a focus on nutrient density
+Thigh,Groin Pull,"Rest, ice, compression, and gentle stretching",Over-the-counter pain relievers,Protein and vitamin K-rich foods
+Groin,Femoral Hernia,Core-strengthening exercises and surgical intervention,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Boxer's Knuckle,Hand therapy exercises and protective splinting,NSAIDs and hand therapy,Collagen-rich foods and vitamin C-rich foods
+Finger,Paronychia,Warm water soaks and antibiotic ointment,Antibiotics and pain relievers,Zinc and vitamin C-rich foods
+Shin,Lateral Tibial Stress Syndrome,Reduced impact activities and shin splint stretches,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Glenohumeral Arthritis,Range of motion exercises and joint preservation,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Bursitis (Prepatellar),Knee pads and quadriceps stretches,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Knee,Osteoarthritis,Low-impact exercises and joint-friendly activities,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin C-rich foods
+Ankle,Retrocalcaneal Bursitis,Achilles tendon stretches and heel pads,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Hamstring,Hamstring Avulsion,Progressive rehabilitation and gentle stretching,Pain management under medical supervision,Protein-rich diet and foods high in vitamin C
+Hip,Trochanteric Bursitis,Hip abduction exercises and rest,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,Rotator Cuff Impingement,Rotator cuff exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Back,Lumbar Compression Fracture,Core-strengthening exercises and spinal decompression,Pain relievers and muscle relaxants,Hydration and foods rich in vitamin D
+Elbow,Ulnar Collateral Ligament (UCL) Sprain,Rest and targeted exercises,NSAIDs and elbow bracing,Vitamin C and E-rich foods
+Wrist,De Quervain's Tenosynovitis,Wrist splinting and gentle exercises,NSAIDs and corticosteroid injections,Vitamin D and omega-3 fatty acids-rich foods
+Calf,Gastrocnemius Tendinitis,Calf stretches and gradual return to activity,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Radiculopathy,Neck exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Metatarsal Fracture,Modified weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Knee,Posterior Cruciate Ligament (PCL) Tear,PCL-specific exercises and knee bracing,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Head,Skull Base Fracture,Complete rest and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Quadriceps Tendon Rupture,Surgical repair and progressive rehabilitation,Pain management under medical supervision,Protein and vitamin E-rich foods
+Groin,Sports Hernia,Core-strengthening exercises and gradual return to activity,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Boxer's Fracture,Hand therapy exercises and splinting,Pain medication and immobilization,Calcium and vitamin D-rich foods
+Finger,Mallet Finger,Finger splinting and gentle exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin C-rich foods
+Shin,Medial Tibial Stress Syndrome,Gradual return to activity and shin splint stretches,Ice and over-the-counter pain relievers,Vitamin D and calcium-rich foods
+Shoulder,Adhesive Capsulitis (Frozen Shoulder),Gentle range of motion exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Iliotibial Band Friction Syndrome,IT band stretches and hip strengthening,NSAIDs and foam rolling,Hydration and anti-inflammatory foods
+Ankle,Os Trigonum Syndrome,Ankle flexibility exercises and rest,Pain relievers and ankle bracing,Omega-3 fatty acids and vitamin D-rich foods
+Hamstring,Hamstring Tendinopathy,Eccentric hamstring exercises and stretching,NSAIDs and physical therapy,Protein-rich diet and foods high in vitamin C
+Hip,Femoroacetabular Impingement (FAI),Hip mobility exercises and physical therapy,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,Subacromial Impingement,Rotator cuff exercises and gentle stretching,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Back,Lumbar Disc Herniation,Core-strengthening exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Olecranon Bursitis,Elbow padding and stretching,NSAIDs and corticosteroid injections,Turmeric and vitamin K-rich foods
+Wrist,TFCC (Triangular Fibrocartilage Complex) Tear,Wrist-strengthening exercises,Immobilization and NSAIDs,Calcium and vitamin D-rich foods
+Calf,Gastrocnemius Strain,Calf stretches and gradual return to activity,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Strain,Neck exercises and heat therapy,Muscle relaxants and pain relievers,Hydration and vitamin C-rich foods
+Foot,Achilles Tendinopathy,Eccentric heel drops and Achilles stretches,NSAIDs and orthopedic inserts,Anti-inflammatory diet and hydration
+Knee,ACL (Anterior Cruciate Ligament) Tear,ACL rehabilitation exercises,Knee brace and prescribed pain medication,Protein and vitamin A-rich foods
+Head,Whiplash,Neck exercises and gentle stretching,Muscle relaxants and pain relievers,Hydration and foods rich in omega-3 fatty acids
+Thigh,Quadriceps Contusion,"Rest, ice, compression, and elevation (R.I.C.E.)",Pain relievers and gentle movement,Protein and vitamin K-rich foods
+Groin,Adductor Longus Tear,Adductor muscle strengthening and stretching,NSAIDs and physical therapy,Anti-inflammatory diet and hydration
+Hand,Metacarpal Fracture,Hand therapy exercises and splinting,Pain medication and immobilization,Calcium and vitamin D-rich foods
+Finger,Ligament Sprain,Finger mobility exercises and buddy taping,NSAIDs and rest,Collagen-rich foods and vitamin E-rich foods
+Shin,Stress Fracture,Reduced weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Rotator Cuff Tear,Rotator cuff exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Patellofemoral Pain Syndrome,Patellar stabilization exercises and knee taping,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Knee,Medial Meniscus Tear,Physical therapy and knee stabilization exercises,NSAIDs and corticosteroid injections,Hydration and foods rich in vitamin C
+Ankle,Cuboid Fracture,Foot stretches and modified weight-bearing exercises,Pain relievers and orthopedic support,Omega-3 fatty acids and vitamin D-rich foods
+Hamstring,Ischial Tuberosity Avulsion,Progressive rehabilitation and gentle stretching,Pain management under medical supervision,Protein-rich diet and foods high in vitamin C
+Hip,Iliopsoas Bursitis,Hip stretches and anti-inflammatory hip exercises,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,SLAP (Superior Labral Tear from Anterior to Posterior),Shoulder stabilization exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Back,Sacroiliac Joint Dysfunction,Core-strengthening exercises and pelvic stabilization,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Radial Head Fracture,Elbow range of motion exercises and protective bracing,NSAIDs and pain relievers,Vitamin C and E-rich foods
+Wrist,Intersection Syndrome,Wrist stretches and modified activities,NSAIDs and corticosteroid injections,Vitamin D and omega-3 fatty acids-rich foods
+Calf,Soleus Rupture,Controlled weight-bearing exercises and physical therapy,Pain management under medical supervision,Protein and potassium-rich foods
+Neck,Thoracic Outlet Syndrome,Neck and shoulder exercises and posture correction,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Lisfranc Injury,Foot immobilization and gentle non-weight-bearing exercises,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Knee,Osteochondral Lesion,Low-impact exercises and joint-stabilizing movements,NSAIDs and corticosteroid injections,Omega-3 fatty acids and foods rich in antioxidants
+Head,Concussion,Complete rest and gradual return to cognitive activities,Monitoring and medical evaluation,Hydration and balanced diet
+Thigh,Quadriceps Contusion,"Rest, ice, compression, and elevation (R.I.C.E.)",Pain relievers and gentle movement,Protein and vitamin K-rich foods
+Groin,Hip Flexor Strain,Gentle stretching and hip flexor exercises,NSAIDs and physical therapy,Anti-inflammatory diet and hydration
+Hand,Trigger Finger,Hand exercises and splinting,NSAIDs and corticosteroid injections,Collagen-rich foods and vitamin E-rich foods
+Finger,Swan Neck Deformity,Finger splinting and strengthening exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Tibial Stress Fracture,Modified weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Glenohumeral Dislocation,Stabilization exercises and physical therapy,Pain relievers and muscle relaxants,Omega-3 fatty acids and protein-rich diet
+Knee,Osgood-Schlatter Disease,Quadriceps and hamstring stretches,Pain relievers and knee bracing,Hydration and foods rich in vitamin D
+Back,Lumbar Disc Bulge,Core-strengthening exercises and postural adjustments,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Ankle,Talar Dome Lesion,Ankle range of motion exercises and non-weight-bearing activities,Pain relievers and orthopedic support,Omega-3 fatty acids and vitamin D-rich foods
+Elbow,Golfer's Elbow (Lateral Epicondylitis),Rest and forearm stretching,Topical NSAIDs and elbow bracing,Vitamin C and E-rich foods
+Wrist,TFCC (Triangular Fibrocartilage Complex) Tear,Wrist-strengthening exercises,Immobilization and NSAIDs,Calcium and vitamin D-rich foods
+Calf,Popliteal Artery Entrapment,Gradual return to activity and calf stretches,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Radiculopathy,Neck exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Plantar Fasciitis,Foot stretches and orthopedic support,NSAIDs and rest,Anti-inflammatory diet and vitamin K-rich foods
+Knee,Patellar Tendinopathy,Eccentric exercises and patellar tendon stretches,NSAIDs and physical therapy,Hydration and foods rich in antioxidants
+Head,Skull Fracture,Complete rest and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Myositis Ossificans,Gentle movement exercises and rest,NSAIDs and ice,Protein and vitamin E-rich foods
+Groin,Obturator Nerve Entrapment,Hip and groin stretches and rest,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Paronychia,Warm water soaks and antibiotic ointment,Antibiotics and pain relievers,Zinc and vitamin C-rich foods
+Finger,Boutonniere Deformity,Finger splinting and gentle exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Anterior Compartment Syndrome,Modification of activities and physical therapy,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Rotator Cuff Tear,Rotator cuff exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Patellofemoral Pain Syndrome,Quadriceps strengthening and low-impact exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Back,Lumbar Spondylolisthesis,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Ankle,Tarsal Tunnel Syndrome,Ankle stretches and nerve gliding exercises,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin D-rich foods
+Elbow,Triceps Tendonitis,Triceps stretches and strengthening exercises,NSAIDs and corticosteroid injections,Vitamin C and E-rich foods
+Wrist,Carpal Tunnel Syndrome,Wrist exercises and ergonomic modifications,NSAIDs and wrist splinting,Vitamin D and calcium-rich foods
+Calf,Soleus Strain,R.I.C.E. protocol and gentle stretching,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Spondylosis,Neck mobility exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Metatarsal Stress Fracture,Modified weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Knee,Lateral Collateral Ligament (LCL) Sprain,LCL-specific exercises and knee bracing,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Head,Temporomandibular Joint (TMJ) Dysfunction,Jaw exercises and oral splints,Muscle relaxants and pain relievers,Soft diet and hydration
+Thigh,Quadriceps Rupture,Surgical repair and gradual rehabilitation,Pain management under medical supervision,Protein and vitamin E-rich foods
+Groin,Inguinal Canal Hernia,Core-strengthening exercises and gradual return to activity,Pain management and surgical consultation,Fiber-rich diet and hydration
+Hand,Scaphoid Fracture,Wrist immobilization and controlled range of motion exercises,Pain relievers and hand therapy,Vitamin D and calcium-rich foods
+Finger,Flexor Tendon Injury,Hand therapy exercises and protective splinting,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Shin,Medial Tibial Stress Syndrome,Gradual return to activity and shin splint stretches,Ice and over-the-counter pain relievers,Vitamin D and calcium-rich foods
+Shoulder,Glenoid Labrum Tear,Shoulder stabilization exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Chondromalacia Patellae,Quadriceps strengthening and low-impact exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Back,Lumbar Facet Joint Arthropathy,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Ankle,Tarsal Tunnel Syndrome,Ankle stretches and nerve gliding exercises,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin D-rich foods
+Elbow,Olecranon Bursitis,Elbow padding and stretching,NSAIDs and corticosteroid injections,Turmeric and vitamin K-rich foods
+Wrist,TFCC (Triangular Fibrocartilage Complex) Tear,Wrist-strengthening exercises,Immobilization and NSAIDs,Calcium and vitamin D-rich foods
+Calf,Gastrocnemius Strain,Calf stretches and gradual return to activity,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Strain,Neck exercises and heat therapy,Muscle relaxants and pain relievers,Hydration and vitamin C-rich foods
+Foot,Hallux Rigidus,Toe stretches and orthopedic footwear,NSAIDs and orthopedic inserts,Anti-inflammatory diet and vitamin K-rich foods
+Knee,Plica Syndrome,Knee exercises and physical therapy,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Head,Temporomandibular Joint (TMJ) Dysfunction,Jaw exercises and oral splints,Muscle relaxants and pain relievers,Soft diet and hydration
+Thigh,Quadriceps Contusion,"Rest, ice, compression, and elevation (R.I.C.E.)",Over-the-counter pain relievers,Protein and vitamin K-rich foods
+Groin,Obturator Nerve Entrapment,Hip and groin stretches and rest,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Dupuytren's Contracture,Hand exercises and stretching,NSAIDs and corticosteroid injections,Collagen-rich foods and vitamin E-rich foods
+Finger,Boutonniere Deformity,Finger splinting and mobility exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Medial Tibial Stress Syndrome,Gradual return to activity and shin splint stretches,Ice and over-the-counter pain relievers,Vitamin D and calcium-rich foods
+Shoulder,Frozen Shoulder,Gentle range of motion exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Patellar Subluxation,Physical therapy and patellar stabilization exercises,NSAIDs and knee bracing,Hydration and foods rich in vitamin C
+Ankle,Talus Fracture,Ankle immobilization and gentle range of motion exercises,Pain relievers and orthopedic support,Omega-3 fatty acids and vitamin D-rich foods
+Hamstring,Biceps Femoris Tendinopathy,Eccentric hamstring exercises and stretching,NSAIDs and targeted physical therapy,Protein-rich diet and foods high in vitamin C
+Hip,Greater Trochanteric Pain Syndrome,Hip abductor strengthening and gentle stretching,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,Acromioclavicular Joint Sprain,Rest and gentle shoulder mobility exercises,Pain relievers and ice,Omega-3 fatty acids and vitamin E-rich foods
+Back,Spinal Stenosis,Lumbar spine exercises and posture adjustments,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Biceps Tendonitis,Biceps stretches and strengthening exercises,NSAIDs and corticosteroid injections,Vitamin C and E-rich foods
+Wrist,Ganglion Cyst,Wrist immobilization and aspiration (if necessary),Pain relievers and gentle wrist exercises,Calcium and vitamin D-rich foods
+Calf,Tibialis Posterior Tendinopathy,Foot arch exercises and orthopedic support,NSAIDs and orthopedic inserts,Protein and potassium-rich foods
+Neck,Whiplash Injury,Neck exercises and gentle stretching,Pain relievers and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Navicular Stress Fracture,Modified weight-bearing and foot arch exercises,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Knee,Osteochondritis Dissecans (OCD),Knee stabilization exercises and joint protection,NSAIDs and corticosteroid injections,Omega-3 fatty acids and foods rich in antioxidants
+Head,Post-Concussion Syndrome,Gradual return to activities and cognitive therapy,Monitoring and medical evaluation,Balanced diet with a focus on nutrient density
+Thigh,Hamstring Contusion,"Rest, ice, compression, and elevation (R.I.C.E.)",Pain relievers and gentle movement,Protein and vitamin K-rich foods
+Groin,Iliopsoas Tendinopathy,Iliopsoas stretches and strengthening exercises,NSAIDs and physical therapy,Anti-inflammatory diet and hydration
+Hand,De Quervain's Tenosynovitis,Wrist splinting and thumb exercises,NSAIDs and corticosteroid injections,Vitamin D and omega-3 fatty acids-rich foods
+Finger,Jersey Finger,Finger splinting and surgical consultation,Pain relievers and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Anterior Tibial Stress Syndrome,Gradual return to activity and shin splint stretches,Ice and over-the-counter pain relievers,Vitamin D and calcium-rich foods
+Shoulder,Labral Tear (SLAP),Shoulder stabilization exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Quadriceps Tendinopathy,Quadriceps stretches and strengthening exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Back,Degenerative Disc Disease,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Ankle,Achilles Tendonitis,Eccentric calf exercises and Achilles stretches,NSAIDs and orthopedic inserts,Omega-3 fatty acids and vitamin D-rich foods
+Elbow,Cubital Tunnel Syndrome,Elbow splinting and nerve gliding exercises,NSAIDs and corticosteroid injections,Vitamin B complex and vitamin C-rich foods
+Wrist,Intersection Syndrome,Wrist stretches and activity modification,NSAIDs and corticosteroid injections,Calcium and vitamin D-rich foods
+Calf,Plantaris Tendon Rupture,"Rest, ice, compression, and elevation (R.I.C.E.)",Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Dystonia,Neck exercises and botulinum toxin injections,Muscle relaxants and pain relievers,Hydration and foods rich in omega-3 fatty acids
+Foot,Morton's Neuroma,Foot padding and supportive footwear,Pain relievers and orthopedic inserts,Vitamin D and anti-inflammatory diet
+Knee,Patellofemoral Instability,Patellar stabilization exercises and physical therapy,NSAIDs and knee bracing,Hydration and foods rich in antioxidants
+Head,Basilar Skull Fracture,Complete rest and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Adductor Magnus Strain,Adductor stretches and gradual return to activity,Pain relievers and compression,Protein and vitamin K-rich foods
+Groin,Sports Hernia,Core-strengthening exercises and gradual return to activity,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Boxer's Knuckle,Hand therapy exercises and splinting,Pain medication and immobilization,Calcium and vitamin D-rich foods
+Finger,Trigger Finger,Finger exercises and steroid injections,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Medial Tibial Stress Syndrome,Gradual return to activity and shin splint stretches,Ice and over-the-counter pain relievers,Vitamin D and calcium-rich foods
+Shoulder,Adhesive Capsulitis (Frozen Shoulder),Gentle range of motion exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,IT Band Syndrome,IT band stretches and foam rolling,NSAIDs and physical therapy,Hydration and anti-inflammatory foods
+Back,Lumbar Radiculopathy,Nerve gliding exercises and targeted stretches,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Ankle,Os Trigonum Syndrome,Ankle flexibility exercises and rest,Pain relievers and ankle bracing,Omega-3 fatty acids and vitamin D-rich foods
+Elbow,Tennis Elbow (Lateral Epicondylitis),Rest and forearm stretches,Topical NSAIDs and elbow bracing,Vitamin C and E-rich foods
+Wrist,Ulnar Styloid Fracture,Wrist splinting and gentle range of motion exercises,NSAIDs and corticosteroid injections,Vitamin D and omega-3 fatty acids-rich foods
+Calf,Gastrocnemius Tendinopathy,Calf stretches and eccentric exercises,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Herniated Disc,Neck exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Achilles Tendon Rupture,Non-surgical treatment and progressive rehabilitation,Pain relievers and orthopedic support,Anti-inflammatory diet and hydration
+Knee,Meniscal Root Tear,Knee exercises and joint-stabilizing movements,NSAIDs and corticosteroid injections,Hydration and foods rich in antioxidants
+Head,Trigeminal Neuralgia,Medications for nerve pain and targeted therapies,Pain management under medical supervision,Soft diet and hydration
+Thigh,Hamstring Avulsion,Progressive rehabilitation and gentle stretching,Pain management under medical supervision,Protein-rich diet and foods high in vitamin C
+Groin,Pubic Symphysis Dysfunction,Pelvic floor exercises and physical therapy,NSAIDs and pain relievers,Anti-inflammatory diet and hydration
+Hand,Carpal Boss,Hand therapy exercises and joint protection,NSAIDs and corticosteroid injections,Calcium and vitamin D-rich foods
+Finger,Gamekeeper's Thumb,Thumb splinting and gentle thumb exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Tibial Plateau Fracture,Immobilization and controlled weight-bearing exercises,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Glenoid Labrum Tear,Shoulder stabilization exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Chondromalacia Patellae,Quadriceps strengthening and low-impact exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Back,Lumbar Spondylolisthesis,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Ankle,Tarsal Tunnel Syndrome,Ankle stretches and nerve gliding exercises,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin D-rich foods
+Elbow,Triceps Tendonitis,Triceps stretches and strengthening exercises,NSAIDs and corticosteroid injections,Vitamin C and E-rich foods
+Wrist,Carpal Tunnel Syndrome,Wrist exercises and ergonomic modifications,NSAIDs and wrist splinting,Vitamin D and calcium-rich foods
+Calf,Soleus Strain,R.I.C.E. protocol and gentle stretching,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Spondylosis,Neck mobility exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Metatarsal Stress Fracture,Modified weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Knee,Lateral Collateral Ligament (LCL) Sprain,LCL-specific exercises and knee bracing,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Head,Temporomandibular Joint (TMJ) Dysfunction,Jaw exercises and oral splints,Muscle relaxants and pain relievers,Soft diet and hydration
+Thigh,Quadriceps Rupture,Surgical repair and gradual rehabilitation,Pain management under medical supervision,Protein and vitamin E-rich foods
+Groin,Inguinal Canal Hernia,Core-strengthening exercises and gradual return to activity,Pain management and surgical consultation,Fiber-rich diet and hydration
+Hand,Scaphoid Fracture,Wrist immobilization and controlled range of motion exercises,Pain relievers and hand therapy,Vitamin D and calcium-rich foods
+Finger,Flexor Tendon Injury,Hand therapy exercises and protective splinting,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Shin,Medial Tibial Stress Syndrome,Gradual return to activity and shin splint stretches,Ice and over-the-counter pain relievers,Vitamin D and calcium-rich foods
+Shoulder,Rotator Cuff Tear,Rotator cuff exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Patellofemoral Pain Syndrome,Quadriceps strengthening and low-impact exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Back,Lumbar Facet Joint Arthropathy,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Ankle,Tarsal Tunnel Syndrome,Ankle stretches and nerve gliding exercises,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin D-rich foods
+Knee,Meniscal Tear,Physical therapy and knee strengthening exercises,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Ankle,Achilles Tendonitis,Eccentric heel drops and calf stretches,NSAIDs and orthopedic inserts,Omega-3 fatty acids and vitamin D-rich foods
+Hamstring,Proximal Hamstring Strain,Progressive rehabilitation and gentle stretching,Pain relievers and muscle relaxants,Protein-rich diet and foods high in vitamin C
+Hip,Trochanteric Bursitis,Hip abduction exercises and rest,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,Acromioclavicular (AC) Joint Separation,Rest and gradual rehabilitation,Pain relievers and shoulder-stabilizing exercises,Omega-3 fatty acids and vitamin E-rich foods
+Back,Sciatica,Physical therapy and nerve gliding exercises,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Tennis Elbow (Lateral Epicondylitis),Rest and forearm stretching,Topical NSAIDs and elbow bracing,Vitamin C and E-rich foods
+Wrist,De Quervain's Tenosynovitis,Wrist splinting and gentle exercises,NSAIDs and corticosteroid injections,Vitamin D and omega-3 fatty acids-rich foods
+Calf,Gastrocnemius Tendinopathy,Eccentric calf exercises and gradual return to activity,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Whiplash,Neck exercises and gentle stretching,Muscle relaxants and pain relievers,Hydration and foods rich in omega-3 fatty acids
+Foot,Stress Fracture (Metatarsal),Modified weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Knee,ACL (Anterior Cruciate Ligament) Sprain,ACL rehabilitation exercises,Knee brace and prescribed pain medication,Protein and vitamin A-rich foods
+Head,Concussion,Complete rest and gradual return to cognitive activities,Monitoring and medical evaluation,Hydration and balanced diet
+Thigh,Quadriceps Contusion,"Rest, ice, compression, and elevation (R.I.C.E.)",Pain relievers and gentle movement,Protein and vitamin K-rich foods
+Groin,Sports Hernia,Core-strengthening exercises and gradual return to activity,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Boxer's Fracture,Hand therapy exercises and splinting,Pain medication and immobilization,Calcium and vitamin D-rich foods
+Finger,Mallet Finger,Finger splinting and gentle exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Shin Splints,Shin splint stretches and gradual return to activity,Rest and ice,Vitamin D and calcium-rich foods
+Shoulder,Rotator Cuff Tear,Rotator cuff exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Patellofemoral Pain Syndrome,Patellar stabilization exercises and knee taping,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Back,Lumbar Disc Herniation,Core-strengthening exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Olecranon Bursitis,Elbow padding and stretching,NSAIDs and corticosteroid injections,Turmeric and vitamin K-rich foods
+Wrist,TFCC (Triangular Fibrocartilage Complex) Tear,Wrist-strengthening exercises,Immobilization and NSAIDs,Calcium and vitamin D-rich foods
+Calf,Gastrocnemius Strain,Calf stretches and gradual return to activity,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Strain,Neck exercises and heat therapy,Muscle relaxants and pain relievers,Hydration and vitamin C-rich foods
+Foot,Achilles Tendinopathy,Eccentric heel drops and Achilles stretches,NSAIDs and orthopedic inserts,Anti-inflammatory diet and hydration
+Knee,PCL (Posterior Cruciate Ligament) Tear,PCL-specific exercises,Knee brace and prescribed pain medication,Hydration and foods rich in antioxidants
+Head,Whiplash,Neck exercises and gentle stretching,Muscle relaxants and pain relievers,Hydration and foods rich in omega-3 fatty acids
+Thigh,Quadriceps Tendon Rupture,Surgical repair and progressive rehabilitation,Pain management under medical supervision,Protein and vitamin E-rich foods
+Groin,Adductor Longus Tear,Adductor muscle strengthening and stretching,NSAIDs and physical therapy,Anti-inflammatory diet and hydration
+Hand,Metacarpal Fracture,Hand therapy exercises and splinting,Pain medication and immobilization,Calcium and vitamin D-rich foods
+Finger,Ligament Sprain,Finger mobility exercises and buddy taping,NSAIDs and rest,Collagen-rich foods and vitamin E-rich foods
+Shin,Stress Fracture,Reduced weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Rotator Cuff Tear,Rotator cuff exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Patellofemoral Pain Syndrome,Patellar stabilization exercises and knee taping,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Back,Lumbar Spondylosis,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Olecranon Bursitis,Elbow padding and stretching,NSAIDs and corticosteroid injections,Turmeric and vitamin K-rich foods
+Wrist,TFCC (Triangular Fibrocartilage Complex) Tear,Wrist-strengthening exercises,Immobilization and NSAIDs,Calcium and vitamin D-rich foods
+Calf,Gastrocnemius Strain,Calf stretches and gradual return to activity,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Strain,Neck exercises and heat therapy,Muscle relaxants and pain relievers,Hydration and vitamin C-rich foods
+Foot,Achilles Tendinopathy,Eccentric heel drops and Achilles stretches,NSAIDs and orthopedic inserts,Anti-inflammatory diet and hydration
+Knee,ACL (Anterior Cruciate Ligament) Tear,ACL rehabilitation exercises,Knee brace and prescribed pain medication,Protein and vitamin A-rich foods
+Head,Whiplash,Neck exercises and gentle stretching,Muscle relaxants and pain relievers,Hydration and foods rich in omega-3 fatty acids
+Thigh,Quadriceps Contusion,"Rest, ice, compression, and elevation (R.I.C.E.)",Pain relievers and gentle movement,Protein and vitamin K-rich foods
+Groin,Adductor Longus Tear,Adductor muscle strengthening and stretching,NSAIDs and physical therapy,Anti-inflammatory diet and hydration
+Hand,Metacarpal Fracture,Hand therapy exercises and splinting,Pain medication and immobilization,Calcium and vitamin D-rich foods
+Finger,Ligament Sprain,Finger mobility exercises and buddy taping,NSAIDs and rest,Collagen-rich foods and vitamin E-rich foods
+Shin,Stress Fracture,Reduced weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Shoulder,Rotator Cuff Tear,Rotator cuff exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Patellofemoral Pain Syndrome,Patellar stabilization exercises and knee taping,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Knee,Meniscus Tear,Football-specific knee exercises and physical therapy,NSAIDs and corticosteroid injections,Hydration and foods rich in vitamin C
+Ankle,High Ankle Sprain,Agility drills and ankle stability exercises,Pain relievers and ankle bracing,Omega-3 fatty acids and vitamin D-rich foods
+Hamstring,Hamstring Strain,Dynamic stretching and progressive rehabilitation,Pain relievers and ice,Protein-rich diet and foods high in vitamin C
+Hip,Hip Flexor Strain,Hip mobility drills and strengthening exercises,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,Rotator Cuff Strain,Rotator cuff exercises and football-specific drills,Pain-relief ointments and NSAIDs,Berries and Omega-3 fatty acids
+Back,Lumbar Strain,Core-strengthening exercises and gentle stretching,Muscle relaxants and NSAIDs,Hydration and foods rich in vitamin B complex
+Elbow,UCL (Ulnar Collateral Ligament) Sprain,Elbow strengthening drills and rest,Anti-inflammatory cream and prescribed pain medication,Calcium-rich foods
+Wrist,Wrist Sprain,Isometric wrist exercises and gradual return to activity,Topical analgesics and wrist immobilization,Collagen supplements and vitamin D-rich foods
+Calf,Gastrocnemius Strain,Gradual return to running and calf stretches,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Strain,Aquatic therapy and neck exercises,Muscle relaxants and NSAIDs,Hydration and potassium-rich foods
+Foot,Plantar Fasciitis,Football-specific foot stretches and orthopedic support,Anti-inflammatory cream and rest,Vitamin K-rich foods and hydration
+Knee,ACL (Anterior Cruciate Ligament) Tear,ACL rehabilitation exercises and knee stability drills,Knee brace and prescribed pain medication,Protein and vitamin A-rich foods
+Head,Concussion,Complete rest and medical evaluation,Monitoring and gradual return to play,Hydration and balanced diet
+Thigh,Quadriceps Contusion,"Rest, ice, compression, and elevation (R.I.C.E.)",Over-the-counter pain relievers,Protein and vitamin K-rich foods
+Groin,Adductor Strain,Groin stretches and strengthening exercises,Icing and NSAIDs,Anti-inflammatory diet and hydration
+Hand,Boxer's Fracture,Hand therapy exercises and protective padding,Pain medication and immobilization,Calcium and vitamin D-rich foods
+Finger,Dislocated Finger,Finger mobility exercises and splinting,Pain relievers and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Shin Splints,Shin splint stretches and gradual return to running,Rest and ice,Vitamin D and calcium-rich foods
+Shoulder,AC Joint Dislocation,AC joint stability exercises and shoulder rehabilitation,Pain relievers and ice,Omega-3 fatty acids and protein-rich diet
+Knee,PCL (Posterior Cruciate Ligament) Sprain,PCL-specific exercises and knee bracing,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Back,Lumbar Disc Herniation,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Golfer's Elbow (Medial Epicondylitis),Rest and forearm stretching,Topical NSAIDs and elbow bracing,Vitamin C and E-rich foods
+Wrist,TFCC (Triangular Fibrocartilage Complex) Tear,Wrist-strengthening exercises,Immobilization and NSAIDs,Calcium and vitamin D-rich foods
+Calf,Achilles Tendinopathy,Eccentric calf exercises and Achilles stretches,NSAIDs and orthopedic inserts,Omega-3 fatty acids and protein-rich diet
+Neck,Cervical Radiculopathy,Neck exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Lisfranc Injury,Football-specific foot exercises and non-weight-bearing activities,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Knee,Osteochondral Lesion,Low-impact exercises and joint-stabilizing movements,NSAIDs and corticosteroid injections,Omega-3 fatty acids and foods rich in antioxidants
+Head,Skull Fracture,Complete rest and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Myositis Ossificans,Gentle movement exercises and rest,NSAIDs and ice,Protein and vitamin E-rich foods
+Groin,Inguinal Canal Hernia,Core-strengthening exercises and gradual return to play,Pain management and surgical consultation,Fiber-rich diet and hydration
+Hand,Scaphoid Fracture,Wrist immobilization and controlled range of motion exercises,Pain relievers and hand therapy,Vitamin D and calcium-rich foods
+Finger,Flexor Tendon Injury,Hand therapy exercises and protective splinting,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Shin,Medial Tibial Stress Syndrome,Gradual return to activity and shin splint stretches,Ice and over-the-counter pain relievers,Vitamin D and calcium-rich foods
+Shoulder,Glenoid Labrum Tear,Shoulder stabilization exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Chondromalacia Patellae,Quadriceps strengthening and low-impact exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Back,Lumbar Spondylolisthesis,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Ankle,Tarsal Tunnel Syndrome,Ankle stretches and nerve gliding exercises,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin D-rich foods
+Elbow,Triceps Tendonitis,Triceps stretches and strengthening exercises,NSAIDs and corticosteroid injections,Vitamin C and E-rich foods
+Wrist,Carpal Tunnel Syndrome,Wrist exercises and ergonomic modifications,NSAIDs and wrist splinting,Vitamin D and calcium-rich foods
+Calf,Soleus Strain,R.I.C.E. protocol and gentle stretching,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Spondylosis,Neck mobility exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Metatarsal Stress Fracture,Modified weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Knee,Lateral Collateral Ligament (LCL) Sprain,LCL-specific exercises and knee bracing,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Head,Temporomandibular Joint (TMJ) Dysfunction,Jaw exercises and oral splints,Muscle relaxants and pain relievers,Soft diet and hydration
+Thigh,Quadriceps Rupture,Surgical repair and gradual rehabilitation,Pain management under medical supervision,Protein and vitamin E-rich foods
+Groin,Inguinal Canal Hernia,Core-strengthening exercises and gradual return to activity,Pain management and surgical consultation,Fiber-rich diet and hydration
+Hand,Scaphoid Fracture,Wrist immobilization and controlled range of motion exercises,Pain relievers and hand therapy,Vitamin D and calcium-rich foods
+Finger,Boutonniere Deformity,Finger splinting and mobility exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Medial Tibial Stress Syndrome,Gradual return to activity and shin splint stretches,Ice and over-the-counter pain relievers,Vitamin D and calcium-rich foods
+Shoulder,Frozen Shoulder,Gentle range of motion exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Iliotibial Band Syndrome (ITBS),ITB stretches and hip strengthening exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Back,Lumbar Facet Joint Arthropathy,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Ankle,Tarsal Tunnel Syndrome,Ankle stretches and nerve gliding exercises,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin D-rich foods
+Elbow,Olecranon Bursitis,Elbow padding and stretching,NSAIDs and corticosteroid injections,Turmeric and vitamin K-rich foods
+Wrist,TFCC (Triangular Fibrocartilage Complex) Tear,Wrist-strengthening exercises,Immobilization and NSAIDs,Calcium and vitamin D-rich foods
+Calf,Gastrocnemius Strain,Calf stretches and gradual return to activity,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Strain,Neck exercises and heat therapy,Muscle relaxants and pain relievers,Hydration and vitamin C-rich foods
+Foot,Hallux Rigidus,Toe stretches and orthopedic footwear,NSAIDs and orthopedic inserts,Anti-inflammatory diet and vitamin K-rich foods
+Knee,Plica Syndrome,Knee exercises and physical therapy,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Head,Temporomandibular Joint (TMJ) Dysfunction,Jaw exercises and oral splints,Muscle relaxants and pain relievers,Soft diet and hydration
+Thigh,Quadriceps Contusion,"Rest, ice, compression, and elevation (R.I.C.E.)",Over-the-counter pain relievers,Protein and vitamin K-rich foods
+Groin,Obturator Nerve Entrapment,Hip and groin stretches and rest,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Dupuytren's Contracture,Hand exercises and stretching,NSAIDs and corticosteroid injections,Collagen-rich foods and vitamin E-rich foods
+Finger,Boutonniere Deformity,Finger splinting and mobility exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Medial Tibial Stress Syndrome,Gradual return to activity and shin splint stretches,Ice and over-the-counter pain relievers,Vitamin D and calcium-rich foods
+Shoulder,Glenoid Labrum Tear,Shoulder stabilization exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Chondromalacia Patellae,Quadriceps strengthening and low-impact exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Back,Lumbar Facet Joint Arthropathy,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Ankle,Tarsal Tunnel Syndrome,Ankle stretches and nerve gliding exercises,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin D-rich foods
+Elbow,Olecranon Bursitis,Elbow padding and stretching,NSAIDs and corticosteroid injections,Turmeric and vitamin K-rich foods
+Wrist,TFCC (Triangular Fibrocartilage Complex) Tear,Wrist-strengthening exercises,Immobilization and NSAIDs,Calcium and vitamin D-rich foods
+Calf,Gastrocnemius Strain,Calf stretches and gradual return to activity,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Strain,Neck exercises and heat therapy,Muscle relaxants and pain relievers,Hydration and vitamin C-rich foods
+Foot,Hallux Rigidus,Toe stretches and orthopedic footwear,NSAIDs and orthopedic inserts,Anti-inflammatory diet and vitamin K-rich foods
+Knee,Plica Syndrome,Knee exercises and physical therapy,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Head,Temporomandibular Joint (TMJ) Dysfunction,Jaw exercises and oral splints,Muscle relaxants and pain relievers,Soft diet and hydration
+Ankle,High Ankle Sprain,Ankle stability exercises and controlled weight-bearing,NSAIDs and ankle bracing,Omega-3 fatty acids and vitamin D-rich foods
+Hamstring,Hamstring Strain,Progressive rehabilitation and dynamic stretching,Pain relievers and muscle relaxants,Protein-rich diet and foods high in vitamin C
+Hip,Hip Flexor Strain,Hip flexor stretches and strengthening exercises,NSAIDs and rest,Anti-inflammatory foods and hydration
+Shoulder,Dislocated Shoulder,Stabilization exercises and physical therapy,Pain-relief medications and shoulder bracing,Omega-3 fatty acids and vitamin E-rich foods
+Back,Lumbar Strain,Core-strengthening exercises and gentle stretching,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,UCL (Ulnar Collateral Ligament) Sprain,Elbow-specific exercises,NSAIDs and prescribed pain medication,Vitamin C and E-rich foods
+Wrist,TFCC (Triangular Fibrocartilage Complex) Tear,Wrist-strengthening exercises,Immobilization and NSAIDs,Calcium and vitamin D-rich foods
+Calf,Achilles Tendinopathy,Eccentric calf exercises and gradual return to activity,NSAIDs and orthopedic inserts,Protein and potassium-rich foods
+Neck,Cervical Strain,Neck exercises and heat therapy,Muscle relaxants and pain relievers,Hydration and vitamin C-rich foods
+Foot,Turf Toe,R.I.C.E. protocol and toe-strengthening exercises,Pain relievers and orthopedic support,Anti-inflammatory diet and vitamin K-rich foods
+Knee,Meniscus Tear,Physical therapy and knee-strengthening exercises,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Ankle,Syndesmotic Sprain,Ankle stability exercises and controlled weight-bearing,NSAIDs and ankle bracing,Omega-3 fatty acids and vitamin D-rich foods
+Hamstring,Hamstring Tendinopathy,Eccentric hamstring exercises and stretching,Pain relievers and rest,Protein-rich diet and foods high in vitamin C
+Hip,Hip Labral Tear,Hip-specific exercises and physical therapy,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,Rotator Cuff Impingement,Rotator cuff exercises and shoulder mobility drills,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Back,Lumbar Disc Herniation,Core-strengthening exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Golfer's Elbow (Medial Epicondylitis),Rest and forearm stretching,Topical NSAIDs and elbow bracing,Vitamin C and E-rich foods
+Wrist,Carpal Tunnel Syndrome,Wrist exercises and ergonomic modifications,NSAIDs and wrist splinting,Vitamin D and calcium-rich foods
+Calf,Gastrocnemius Strain,Calf stretches and gradual return to activity,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Whiplash,Neck exercises and gentle stretching,Muscle relaxants and pain relievers,Hydration and foods rich in omega-3 fatty acids
+Foot,Metatarsal Fracture,Modified weight-bearing exercises and rest,Pain relievers and orthopedic support,Vitamin D and calcium-rich foods
+Knee,PCL (Posterior Cruciate Ligament) Sprain,PCL-specific exercises,Knee brace and prescribed pain medication,Hydration and foods rich in antioxidants
+Head,Skull Fracture,Complete rest and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Quadriceps Contusion,"Rest, ice, compression, and elevation (R.I.C.E.)",Pain relievers and gentle movement,Protein and vitamin K-rich foods
+Groin,Adductor Strain,Adductor muscle stretches and gradual return to activity,NSAIDs and physical therapy,Anti-inflammatory diet and hydration
+Hand,Boxer's Fracture,Hand therapy exercises and protective splinting,Pain medication and immobilization,Calcium and vitamin D-rich foods
+Finger,Jersey Finger,Finger splinting and hand therapy exercises,NSAIDs and rest,Collagen-rich foods and vitamin E-rich foods
+Shin,Medial Tibial Stress Syndrome,Gradual return to activity and shin splint stretches,Ice and over-the-counter pain relievers,Vitamin D and calcium-rich foods
+Shoulder,AC Joint Separation,Rest and gradual rehabilitation,Pain relievers and shoulder-stabilizing exercises,Omega-3 fatty acids and protein-rich diet
+Knee,IT Band Syndrome,IT band stretches and strengthening exercises,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Back,Lumbar Strain,Core-strengthening exercises and gentle stretching,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Ankle,Talar Dome Lesion,Ankle range of motion exercises and non-weight-bearing activities,Pain relievers and orthopedic support,Omega-3 fatty acids and vitamin D-rich foods
+Elbow,Triceps Tendinopathy,Triceps stretches and strengthening exercises,NSAIDs and corticosteroid injections,Vitamin C and E-rich foods
+Wrist,De Quervain's Tenosynovitis,Wrist splinting and gentle exercises,NSAIDs and corticosteroid injections,Vitamin D and omega-3 fatty acids-rich foods
+Calf,Gastrocnemius Tendinopathy,Eccentric calf exercises and gradual return to activity,NSAIDs and orthopedic inserts,Protein and potassium-rich foods
+Neck,Cervical Radiculopathy,Neck exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Plantar Fasciitis,Foot stretches and orthopedic support,NSAIDs and rest,Anti-inflammatory diet and vitamin K-rich foods
+Knee,Patellar Tendinopathy,Eccentric exercises and patellar tendon stretches,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Head,Concussion,Complete rest and gradual return to cognitive activities,Monitoring and medical evaluation,Hydration and balanced diet
+Thigh,Quadriceps Rupture,Surgical repair and gradual rehabilitation,Pain management under medical supervision,Protein and vitamin E-rich foods
+Groin,Sports Hernia,Core-strengthening exercises and gradual return to activity,Pain management and physical therapy,Fiber-rich diet and hydration
+Hand,Scaphoid Fracture,Wrist immobilization and controlled range of motion exercises,Pain relievers and hand therapy,Vitamin D and calcium-rich foods
+Finger,Flexor Tendon Injury,Hand therapy exercises and protective splinting,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Shin,Medial Tibial Stress Syndrome,Gradual return to activity and shin splint stretches,Ice and over-the-counter pain relievers,Vitamin D and calcium-rich foods
+Shoulder,Glenoid Labrum Tear,Shoulder stabilization exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Chondromalacia Patellae,Quadriceps strengthening and low-impact exercises,NSAIDs and physical therapy,Hydration and foods rich in vitamin C
+Back,Lumbar Facet Joint Arthropathy,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Ankle,Tarsal Tunnel Syndrome,Ankle stretches and nerve gliding exercises,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin D-rich foods
+Elbow,Olecranon Bursitis,Elbow padding and stretching,NSAIDs and corticosteroid injections,Turmeric and vitamin K-rich foods
+Wrist,TFCC (Triangular Fibrocartilage Complex) Tear,Wrist-strengthening exercises,Immobilization and NSAIDs,Calcium and vitamin D-rich foods
+Calf,Soleus Strain,R.I.C.E. protocol and gentle stretching,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Strain,Neck exercises and heat therapy,Muscle relaxants and pain relievers,Hydration and vitamin C-rich foods
+Foot,Hallux Rigidus,Toe stretches and orthopedic footwear,NSAIDs and orthopedic inserts,Anti-inflammatory diet and vitamin K-rich foods
+Knee,Plica Syndrome,Knee exercises and physical therapy,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Head,Temporomandibular Joint (TMJ) Dysfunction,Jaw exercises and oral splints,Muscle relaxants and pain relievers,Soft diet and hydration
+Thigh,Quadriceps Contusion,"Rest, ice, compression, and elevation (R.I.C.E.)",Over-the-counter pain relievers,Protein and vitamin K-rich foods
+Groin,Obturator Nerve Entrapment,Hip and groin stretches and rest,Pain management and physical therapy,Anti-inflammatory diet and hydration
+Hand,Dupuytren's Contracture,Hand exercises and stretching,NSAIDs and corticosteroid injections,Collagen-rich foods and vitamin E-rich foods
+Finger,Boutonniere Deformity,Finger splinting and mobility exercises,NSAIDs and hand therapy,Collagen-rich foods and vitamin E-rich foods
+Shin,Medial Tibial Stress Syndrome,Gradual return to activity and shin splint stretches,Ice and over-the-counter pain relievers,Vitamin D and calcium-rich foods
+Shoulder,Frozen Shoulder,Gentle range of motion exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Iliotibial Band Syndrome (ITBS),IT band stretches and strengthening exercises,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Knee,MCL (Medial Collateral Ligament) Sprain,MCL-specific exercises,Knee brace and prescribed pain medication,Protein and vitamin A-rich foods
+Ankle,Ankle Fracture,Controlled range of motion exercises and rest,Pain relievers and immobilization,Calcium and vitamin D-rich foods
+Hamstring,Hamstring Rupture,Surgical repair and gradual rehabilitation,Pain management under medical supervision,Protein-rich diet and foods high in vitamin C
+Hip,Hip Impingement,Hip mobility exercises and physical therapy,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,Shoulder Impingement,Rotator cuff exercises and shoulder mobility drills,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Back,Lumbar Radiculopathy,Nerve gliding exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Olecranon Fracture,Elbow splinting and controlled range of motion exercises,Pain relievers and immobilization,Vitamin C and E-rich foods
+Wrist,Intersection Syndrome,Wrist stretches and ergonomic modifications,NSAIDs and wrist splinting,Vitamin D and omega-3 fatty acids-rich foods
+Calf,Shin Splints,Gradual return to activity and calf stretches,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Herniated Disc (Cervical),Neck mobility exercises and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Lisfranc Injury,Non-weight-bearing exercises and orthopedic support,Pain relievers and orthopedic inserts,Vitamin D and calcium-rich foods
+Knee,Osgood-Schlatter Disease,Quadriceps and patellar tendon stretches,NSAIDs and knee support,Hydration and foods rich in antioxidants
+Ankle,Achilles Tendon Rupture,Surgical repair and progressive rehabilitation,Pain management under medical supervision,Protein and vitamin D-rich foods
+Hamstring,Hamstring Contusion,"Rest, ice, compression, and elevation (R.I.C.E.)",Pain relievers and gentle movement,Protein-rich diet and foods high in vitamin C
+Hip,Iliopsoas Tendinitis,Iliopsoas stretches and hip-strengthening exercises,NSAIDs and corticosteroid injections,Anti-inflammatory foods and collagen supplements
+Shoulder,SLAP (Superior Labrum from Anterior to Posterior) Lesion,Shoulder stabilization exercises,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Back,Lumbar Compression Fracture,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Elbow,Biceps Tendinitis,Biceps stretches and strengthening exercises,NSAIDs and corticosteroid injections,Vitamin C and E-rich foods
+Wrist,Ganglion Cyst,Aspiration and gentle wrist exercises,Pain relievers and immobilization,Calcium and vitamin D-rich foods
+Calf,Compartment Syndrome,Rest and surgical intervention,Pain management under medical supervision,Protein and potassium-rich foods
+Neck,Thoracic Outlet Syndrome,Thoracic outlet stretches and physical therapy,NSAIDs and muscle relaxants,Hydration and foods rich in omega-3 fatty acids
+Foot,Navicular Stress Fracture,Modified weight-bearing exercises and orthopedic support,Pain relievers and rest,Vitamin D and calcium-rich foods
+Knee,Baker's Cyst,Knee exercises and fluid drainage,NSAIDs and knee support,Hydration and anti-inflammatory foods
+Head,Skull Base Fracture,Complete rest and medical monitoring,Pain management under medical supervision,Balanced diet with a focus on nutrient density
+Thigh,Hamstring Contusion,"Rest, ice, compression, and elevation (R.I.C.E.)",Pain relievers and gentle movement,Protein and vitamin K-rich foods
+Groin,Sports Hernia,Core-strengthening exercises and gradual return to activity,Pain management and physical therapy,Fiber-rich diet and hydration
+Hand,Boxer's Knuckle,Hand therapy exercises and protective splinting,Pain medication and immobilization,Calcium and vitamin D-rich foods
+Finger,Jersey Finger,Finger splinting and hand therapy exercises,NSAIDs and rest,Collagen-rich foods and vitamin E-rich foods
+Shin,Anterior Compartment Syndrome,Rest and gradual return to activity,Pain relievers and compression,Protein and potassium-rich foods
+Shoulder,AC Joint Dislocation,Rest and gradual rehabilitation,Pain relievers and shoulder-stabilizing exercises,Omega-3 fatty acids and protein-rich diet
+Knee,Patellar Tendinitis,Eccentric exercises and patellar tendon stretches,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
+Back,Lumbar Facet Joint Arthropathy,Core-strengthening exercises and spinal decompression,NSAIDs and muscle relaxants,Hydration and foods rich in vitamin B complex
+Ankle,Tarsal Tunnel Syndrome,Ankle stretches and nerve gliding exercises,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin D-rich foods
+Elbow,Olecranon Bursitis,Elbow padding and stretching,NSAIDs and corticosteroid injections,Turmeric and vitamin K-rich foods
+Wrist,TFCC (Triangular Fibrocartilage Complex) Tear,Wrist-strengthening exercises,Immobilization and NSAIDs,Calcium and vitamin D-rich foods
+Calf,Soleus Strain,R.I.C.E. protocol and gentle stretching,Pain relievers and compression,Protein and potassium-rich foods
+Neck,Cervical Strain,Neck exercises and heat therapy,Muscle relaxants and pain relievers,Hydration and vitamin C-rich foods
+Foot,Hallux Rigidus,Toe stretches and orthopedic footwear,NSAIDs and orthopedic inserts,Anti-inflammatory diet and vitamin K-rich foods
+Knee,Plica Syndrome,Knee exercises and physical therapy,NSAIDs and corticosteroid injections,Hydration and anti-inflammatory foods
+Head,Temporomandibular Joint (TMJ) Dysfunction,Jaw exercises and oral splints,Muscle relaxants and pain relievers,Soft diet and hydration
+Thigh,Quadriceps Rupture,Surgical repair and gradual rehabilitation,Pain management under medical supervision,Protein and vitamin E-rich foods
+Groin,Adductor Tendinopathy,Adductor stretches and strengthening exercises,NSAIDs and physical therapy,Anti-inflammatory diet and hydration
+Hand,Scaphoid Fracture,Wrist immobilization and controlled range of motion exercises,Pain relievers and hand therapy,Vitamin D and calcium-rich foods
+Finger,Flexor Tendon Injury,Hand therapy exercises and protective splinting,NSAIDs and corticosteroid injections,Omega-3 fatty acids and vitamin E-rich foods
+Shin,Posterior Compartment Syndrome,Rest and gradual return to activity,Pain relievers and compression,Protein and potassium-rich foods
+Shoulder,Frozen Shoulder,Gentle range of motion exercises and physical therapy,NSAIDs and corticosteroid injections,Omega-3 fatty acids and protein-rich diet
+Knee,Iliotibial Band Syndrome (ITBS),IT band stretches and strengthening exercises,NSAIDs and prescribed pain medication,Hydration and foods rich in antioxidants
